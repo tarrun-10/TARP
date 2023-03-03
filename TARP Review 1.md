@@ -130,6 +130,7 @@ These are platforms where co-works can connect share their ideas in an organised
 We are following incremental model as it is best suited for project. It reduces the room for error and consumes less time.
 Our project follows as mentioned below.
  
+![image](https://user-images.githubusercontent.com/124272210/222786814-3211e2ca-5cce-4ff7-a25a-fad54fcd49f5.png)
 
 
 ### **Responsibility Based Work Break-down Structure:**
@@ -155,6 +156,7 @@ The Second part which is done by Parth consists of
 
 
  
+![image](https://user-images.githubusercontent.com/124272210/222787146-6b6c0e74-5c12-48d1-acd1-d0d5dbf69a7f.png)
 
  
 
