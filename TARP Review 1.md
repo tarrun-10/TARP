@@ -60,6 +60,109 @@ Lastly, an online booking system can also be a way to provide financial stabilit
 Overall, an online booking system for porters can provide a better and more efficient service for customers, while also helping to improve the livelihoods of porters.
 
 
+### **Technical Requirements**
+
+1)	**Frontend Framework:**
+
+•	Angular
+
+•	React
+
+•	Vue.js
+
+•	HTML, CSS, JS
+
+                
+These are all front-end web development frameworks that could be used to create the user interface of the porter booking system. React is a JavaScript library for building user interfaces, Angular is a TypeScript-based web application framework, and Vue.js is a progressive JavaScript framework for building user interfaces.
+
+2)	**Backend Framework:**
+
+•	Node.js
+
+•	Ruby
+
+•	Python
+
+These are all server-side web development technologies that could be used to create the back-end logic of the porter booking system. Node.js is a JavaScript runtime built on the Chrome V8 engine, Ruby on Rails is a web application framework written in Ruby, and Python Flask is a micro web framework written in Python.
+
+3)	**Database Management System:**
+•	MySQL
+
+•	MangoDB
+
+These are all relational or NoSQL database management systems that could be used to store and manage data related to the porter booking system. MySQL is an open-source relational database management system, MongoDB is a NoSQL document-oriented database, and PostgreSQL is a powerful open-source object-relational database management system.
+
+4)	**Payment Gateway Integration:**
+
+•	Paypal
+
+•	Braintree
+
+These are all payment gateway integration services that could be used to enable secure online payment processing in the porter booking system. Stripe is a software platform for online payment processing, PayPal is a global online payment system, and Braintree is a full-stack payments platform that simplifies the online payment process.
+
+5)	**Real-time tracking and mapping API’s:**
+
+•	Google Maps API
+
+•	Mapbox API
+
+These are all real-time tracking and mapping APIs that could be used to enable real-time tracking of the porter's location and the customer's location in the porter booking system. Google Maps API is a web mapping service, Mapbox API is a location data platform, and Leaflet is an open-source JavaScript library for mobile-friendly interactive maps.
+
+6)	**Cloud hosting and Development:**
+
+•	 Google Cloud
+
+•	Microsoft Azure
+
+These are all cloud hosting and deployment technologies that could be used to ensure high availability, scalability, and efficient deployment of the porter booking system. AWS is a cloud computing platform provided by Amazon, Microsoft Azure is a cloud computing service provided by Microsoft, and Google Cloud Platform is a suite of cloud computing services provided by Google.
+
+7)	**Communication and interaction:**
+
+•	Obsidian
+
+•	GitHub
+
+These are platforms where co-works can connect share their ideas in an organised manner, without worrying about losing data. Tools such as Obsidian helps us keep track of all the conversations and ideas with the help mind map feature, which interlinks the conversations from the begin to the end. For sharing the code and related components GitHub is very efficient, it makes pushing a huge amount of files inside and outside easy, while keeping track of the changes.
+
+
+### **Phase Based Work Break Structure:**
+
+We are following incremental model as it is best suited for project. It reduces the room for error and consumes less time.
+Our project follows as mentioned below.
+ 
+
+
+### **Responsibility Based Work Break-down Structure:**
+
+We are a team of two, so our project was split into 2 parts. 
+The First part which is done by Tarrun consists of:
+
+•	Frontend 
+
+•	Cloud hosting and Development
+
+•	API’S
+
+•	Management of the work flow
+
+
+The Second part which is done by Parth consists of 
+•	Backend or server side
+
+•	Database Management 
+
+•	Payment Gateway
+
+
+ 
+
+ 
+
+
+
+
+
+
 
 ### **Ideation and Conversations**
 
@@ -452,6 +555,5 @@ Hence we can begin the development with minimal cost and focus on making the app
 
 
 # **Thank you!**
-
 
 
