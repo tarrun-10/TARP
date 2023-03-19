@@ -59,6 +59,53 @@ Another motivation for an online booking system is to reduce the chances of over
 Lastly, an online booking system can also be a way to provide financial stability to porters, which may not have regular employment or income.
 Overall, an online booking system for porters can provide a better and more efficient service for customers, while also helping to improve the livelihoods of porters.
 
+### **Literature Review**
+
+1. Title: An internet-based logistics management system for enterprise chains
+DOI: https://doi.org/10.1016/j.jfoodeng.2004.01.040
+Authors: N. Prindezis et al.
+Abstract:
+This paper presents an Internet-Based Logistics Management System to coordinate and disseminate tasks and related information for solving the heterogeneous vehicle routing problem using appropriate metaheuristic techniques, for use in enterprise chain networks. Its architecture involves a JAVA Web applet equipped with interactive communication capabilities between peripheral software tools. The system was developed in distributed software fashion technology for all computer platforms utilizing a Web browser, focusing on the detailed road network of Athens and the needs of the Athens Central Food Market enterprises.
+
+2. Title: A Collaborative Supply Chain Management System for a Maritime Port Logistics Chain
+DOI: https://www.scielo.org.mx/scielo.php?pid=S1665-64232014000300010&script=sci_arttext&tlng=en 
+Authors: LM Ascencio et al.
+Abstract:
+In this article we propose a collaborative logistics framework for a Port Logistics Chain (PLC) based on the principles of Supply Chain Management (SCM) that rely on stakeholders integration and collaboration, providing a reference model for the inland coordination of the PLC. A comprehensive literature review was conducted, analyzing several cases in which SCM practices have been implemented as well as studies related to port development, governance, coordination, and best practices associated. This background information was used to identify current gaps in logistics management practices and potential scopes of intervention within the PLC to suggest a redesign process and configure new structures under a collaborative scheme, following the guidelines of SCM.
+
+3. Title: Planning enterprise resources by use of a reengineering approach to build a global logistics management system
+DOI: https://doi.org/10.1108/02635570110410672 
+Authors: Shi‐Ming Huang et al.
+Abstract:
+Theoretically and ideally, enterprise resource planning (ERP) seeks to streamline and integrate operation processes and information flow within a company. Practically, ERP system implementation involves a much broader scope and in‐depth consideration within an organization. Concurrently, in response to this need for resource optimization, the impact of globalization has caused the emergence of a new business operation format, global logistics management (GLM). This pertains to the overall management system of a corporation’s undertaking of worldwide market distribution, product design, customer satisfaction, production, procurement, logistics, suppliers and inventory. Suggests building an ERP as the backbone for implementation of a GLM system, while minimizing the impact of changes by use of information system reengineering technology (ISRT). Proposes a novel development framework that applies ISRT and ERP to developing a GLM system to economize on the system implementation cost and minimize the impact of changes within the corporation as a whole.
+
+
+4. Title: Research and design of logistics management system based on internet of things
+DOI: https://doi.org/10.1109/AIMSEC.2011.6011405 
+Authors: Changhui Yu
+Abstract:
+Through the study of the Internet of Things technology, the idea combining EPC Internet of Things with WSN is proposed which demonstrates the integration feasibility of the RFID and WSN technology. In order to improve the efficiency of logistics enterprises all aspects in the transport process should be monitored which need to apply the Internet of Things technology into the logistics management system. The logistics information is obtained by radio frequency identification, sensors, etc., is transferred by network which combines the Internet, mobile communication network and other network information transmission, and is analyzed and processed through the logistics management system. In this way functions such as user management, vehicle management, site management, order management, distribution management and other functions are implemented effectively which can facilitate the remote operation and monitoring on the user information, vehicle information, order information inorder to intelligent decision-making and control.
+
+5. Title: A web‐based logistics management system for agile supply demand network design
+DOI: https://www.emerald.com/insight/content/doi/10.1108/17410380610707384/full/html?queryID=51%2F5410742
+Authors: Petri Helo et al.
+Abstract:
+Purpose
+Online, on‐demand and real‐time availability of information to all members of a manufacturing system enables them to be agile and in the best position to react quickly, efficiently, synchronously, and collectively to the changing market. This paper proposes an integrated web‐based logistics management system for agile supply demand network design (ASDN).
+
+Design/methodology/approach
+The paper presents a software system, which is distributed as open source. A case study of ABB Company in Finland has been undertaken and this demonstrates the validity of ASDN in designing and managing supply demand networks.
+
+Findings
+Current software applications, such as ERP, WMS and EAI do not support a higher‐level decision making. There are several performance measures, which are directly connected to structure of the network.
+
+Practical implications
+The presented software supports modeling, analyzing and limited optimizing of supply demand networks. Also discussed is the network level logistics analysis that is behind the modeling tool.
+
+Originality/value
+The paper introduces the ASDN software, which is freely available for research and commercial uses. The case example shows how this type of network architecture‐related decisions can be analyzed.
+
+
 
 ### **Technical Requirements**
 
@@ -162,6 +209,23 @@ The Second part which is done by Parth consists of
 
 
 
+### **Some highly technical aspects that can be incorporated into a porter booking app along with the respective software and technologies are:**
+
+Real-time GPS tracking: To implement real-time GPS tracking, the app can use software such as **Google Maps API, Mapbox SDK, or HERE Maps API.**
+
+Artificial intelligence (AI) algorithms: To implement AI algorithms, the app can use software such as **TensorFlow, Keras, or PyTorch** for machine learning and deep learning models.
+
+Augmented reality (AR) navigation: To implement AR navigation, the app can use software such as **ARKit for iOS devices, ARCore for Android devices, or Vuforia for cross-platform development.**
+
+In-app messaging: To implement in-app messaging, the app can use software such as **Firebase Cloud Messaging (FCM) or Pusher** for real-time messaging.
+
+Voice recognition: To implement voice recognition, the app can use software such as **Google Cloud Speech-to-Text API, Amazon Transcribe API, or Microsoft Azure Speech Services API.**
+
+Integration with third-party services: To integrate with third-party services, the app can use software such as **RESTful APIs or GraphQL APIs to connect with external services such as weather APIs, traffic APIs, or flight APIs.**
+
+Payment gateway integration: To implement payment gateway integration, the app can use software such as **Stripe, PayPal, or Braintree for secure payment processing.**
+
+Multi-language support: To implement multi-language support, the app can use software such as the Android Localization Framework or the iOS Internationalization and Localization Guide to support multiple languages and regions. The app can also use machine translation services such as **Google Cloud Translation API or Microsoft Azure Translator API to provide automatic translation.**
 
 
 
