@@ -1,4 +1,3 @@
-
 # **TARP REVIEW - 1**
 
 ## Topic - Porter Booking System
@@ -672,5 +671,4 @@ Hence we can begin the development with minimal cost and focus on making the app
 
 
 # **Thank you!**
-
 
