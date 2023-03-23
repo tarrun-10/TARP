@@ -19,7 +19,8 @@ Parth S Parker - 20BCB0061
 
 The vision of an online porter booking system is to streamline the process of hiring a
 porter by providing a platform that allows users to easily find, book, and pay for the
-services of porters.
+services of porters. By implementing the latest technologies we will attract the 
+customers in large scale by making it extremely user friendly and convinient.
 
 
 ### **Problem Discription**
@@ -46,6 +47,18 @@ not have access to legal recourse if they are mistreated or not paid for their w
 
 6. **Weight Limit:** 
 Porters end up carrying more weight which can harm their body.
+
+7. **Lack of advanced technology:**
+The latest and advanced features such as 
+ --Real-time GPS tracking
+ --Artificial intelligence (AI) algorithms
+ --Augmented reality (AR) navigation
+ --In-app messaging
+ --Voice recognition
+ --Integration with third-party services
+ --Payment gateway integration
+ --Multi-language support
+ Many other features that we will be mentioning below are not being implemented by anyone.
 
 ### **Motivation for Topic Selection:**
 
@@ -157,7 +170,7 @@ Communicating with customers through live chat interfaces has become an increasi
 
 
 
-### **Technical Requirements**
+### **Technical Requirements and Technologies Implemented **
 
 1)	**Frontend Framework:**
 
@@ -242,7 +255,7 @@ To implement payment gateway integration, the app can use software such as Strip
 15)**Multi-language support:** 
 To implement multi-language support, the app can use software such as the Android Localization Framework or the iOS Internationalization and Localization Guide to support multiple languages and regions. The app can also use machine translation services such as Google Cloud Translation API or Microsoft Azure Translator API to provide automatic translation.
 
-### **Technology Gap**
+### **Technology Gap compared to other compatitors**
 In terms of the technology gap with the current generation, the main difference is the use of AI and machine learning to implement chatbots. Many current online porter booking systems use rule-based chatbots, which are limited in their ability to understand natural language. With the use of AI and machine learning, futuristic online porter booking systems can provide a more natural and personalized chatbot experience. Additionally, the use of blockchain technology is still in its early stages in the online porter booking industry, and many systems still rely on traditional payment systems.
 
 
@@ -275,7 +288,8 @@ The Second part which is done by Parth consists of
 
 •	Payment Gateway
 
-
+**External Help**
+We will be hiring interns, project managers, testers, ML and AI developers to implement the remaining components. For the investment we are approching investors, VC's and incubators.
  
 ![image](https://user-images.githubusercontent.com/124272210/222787146-6b6c0e74-5c12-48d1-acd1-d0d5dbf69a7f.png)
 
