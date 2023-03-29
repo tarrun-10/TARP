@@ -1,6 +1,6 @@
 # **TARP REVIEW - 1**
 
-## Topic - Porter Booking System
+## Topic - Futuristic Porter Booking System
 
 #### **Team Members:**
 
@@ -21,8 +21,7 @@ Parth S Parker - 20BCB0061
 The vision of an online porter booking system is to streamline the process of hiring a
 porter by providing a platform that allows users to easily find, book, and pay for the
 services of porters. By implementing the latest technologies we will attract the 
-customers in large scale by making it extremely user friendly and convinient.
-
+customers in large scale by making it extremely user friendly and making it easier for users of all age categories.
 
 ### **Problem Discription**
 
@@ -72,7 +71,223 @@ Another motivation for an online booking system is to reduce the chances of over
 Lastly, an online booking system can also be a way to provide financial stability to porters, which may not have regular employment or income.
 Overall, an online booking system for porters can provide a better and more efficient service for customers, while also helping to improve the livelihoods of porters.
 
-### **Literature Review**
+
+### **References**
+
+1) Cab-O-Coolie:
+This online platform connects travelers with local porters who can assist with carrying their luggage. Users can book a porter through the website or mobile app. Website: https://www.cabocoolie.com/
+They use 
+-GPS and Location-based Services
+-Payment Gateway Integration
+-Cloud Computing
+-chatbot technology
+-AI and Ml
+
+2) LugLess: 
+This platform allows users to book luggage shipping and porter services online. The company partners with local porters to provide luggage assistance to travelers. Website: https://www.lugless.com/
+They use 
+-RESTful API
+-GPS and Location-based Services
+-Payment Gateway Integration
+-chatbot technology
+-AI and Ml
+
+3) PorterGenie:
+This online porter booking system allows travelers to book porters for assistance with their luggage at airports, train stations, and hotels. Website: https://portergenie.com/
+
+4) Jeeves: 
+This platform connects travelers with personal assistants, including porters, who can help with a variety of travel-related tasks. Users can book a Jeeves assistant online or through the mobile app. Website: https://jeeves.services/
+
+5) LuggageHero: 
+This platform allows users to book luggage storage and porter services online. The company partners with local porters to provide luggage assistance to travelers. Website: https://luggagehero.com/
+
+6) Portr: 
+This platform offers on-demand baggage porters at airports and train stations. Users can book a porter through the website or mobile app. Website: https://www.portr.com/
+
+Portr is a mobile app that offers on-demand baggage porters at airports and train stations. The app is built using React Native. The app uses a RESTful API to connect travelers with local porters
+
+7) Bags VIP: 
+This platform provides baggage delivery and porter services at select airports in the United States. Users can book a porter through the website or mobile app. Website: https://www.maketraveleasier.com/
+Bags VIP is an online platform that provides baggage delivery and porter services at select airports in the United States. The platform is built using a combination of technologies, including HTML, CSS, JavaScript, and PHP. The platform uses a RESTful API to connect users with local porters.
+
+8) Airportr: 
+This platform provides luggage porters and delivery services at airports in the UK and Europe. Users can book a porter through the website or mobile app. Website: https://www.airportr.com/
+Airportr is an online platform that provides on-demand baggage porters and baggage delivery services at select airports in the UK and Europe. The platform is built using a combination of technologies, including HTML, CSS, JavaScript, and PHP. The platform uses a RESTful API to connect users with local porters.
+
+9) LuggAgent: 
+This platform offers luggage delivery and porter services at airports, hotels, and train stations. Users can book a porter through the website or mobile app. Website: https://luggagent.com/
+
+10) CityStasher: 
+This platform offers luggage storage and porter services at locations in the UK and Europe. Users can book a porter through the website or mobile app. Website: https://www.citystasher.com/
+
+**Result**
+After conducting our research we found that all the above mentioned references are haveing similar advanced technologies being implemented. Even though few of them are lagging behind technology wise, all other have the following latest technologies implemented 
+
+Mobile Application Development: Mobile applications for both Android and iOS platforms that allow users to book cabs and rides on the go. The app could be developed using native mobile app development frameworks like Java for Android and Swift for iOS.
+
+GPS and Location-based Services: GPS and location-based services to track the location of the user and the driver, enabling real-time tracking and accurate navigation.
+
+Payment Gateway Integration: Pay for their rides and cab bookings online. The platform could use payment gateway integrations like Paytm, UPI, or other online payment platforms to facilitate seamless and secure transactions.
+
+Cloud Computing: Cloud computing technologies to store and manage data, allowing for scalability and flexibility.
+
+Chatbot Technology: Implementing chatbot technology to provide 24/7 customer support to users, enabling them to resolve their queries and issues in real-time.
+
+Artificial Intelligence and Machine Learning: AI and machine learning algorithms to optimize their services and provide personalized recommendations to users based on their ride history and preferences.
+
+
+### **Technical Requirements and Technologies Implemented **
+
+1) **IVR (for porters without mobile)**
+Using an IVR system, users can call a designated phone number and interact with the platform using voice commands. For example, a porter can call the IVR system to check for available jobs or to update their availability status. The IVR system can use voice recognition technology to understand the porter's commands and provide relevant information in real-time.
+
+To implement an IVR system, the platform would need to integrate with a voice recognition technology provider such as Google Cloud Speech-to-Text or Amazon Transcribe. The platform would also need to provide a phone number that porters can call to access the IVR system.
+
+2)	**Frontend Framework:**
+
+•	Angular
+
+•	React
+
+•	Vue.js
+
+•	HTML, CSS, JS
+
+                
+These are all front-end web development frameworks that could be used to create the user interface of the porter booking system. React is a JavaScript library for building user interfaces, Angular is a TypeScript-based web application framework, and Vue.js is a progressive JavaScript framework for building user interfaces.
+
+3)	**Backend Framework:**
+
+•	Node.js
+
+•	Ruby
+
+•	Python
+
+These are all server-side web development technologies that could be used to create the back-end logic of the porter booking system. Node.js is a JavaScript runtime built on the Chrome V8 engine, Ruby on Rails is a web application framework written in Ruby, and Python Flask is a micro web framework written in Python.
+
+4)	**Database Management System:**
+•	MySQL
+
+•	MangoDB
+
+These are all relational or NoSQL database management systems that could be used to store and manage data related to the porter booking system. MySQL is an open-source relational database management system, MongoDB is a NoSQL document-oriented database, and PostgreSQL is a powerful open-source object-relational database management system.
+
+5)	**Payment Gateway Integration:**
+
+•	Paypal
+
+•	Braintree
+
+These are all payment gateway integration services that could be used to enable secure online payment processing in the porter booking system. Stripe is a software platform for online payment processing, PayPal is a global online payment system, and Braintree is a full-stack payments platform that simplifies the online payment process.
+
+6)	**Real-time tracking and mapping API’s:**
+
+•	Google Maps API
+
+•	Mapbox API
+
+These are all real-time tracking and mapping APIs that could be used to enable real-time tracking of the porter's location and the customer's location in the porter booking system. Google Maps API is a web mapping service, Mapbox API is a location data platform, and Leaflet is an open-source JavaScript library for mobile-friendly interactive maps.
+
+7)	**Cloud hosting and Development:**
+
+•	 Google Cloud
+
+•	Microsoft Azure
+
+These are all cloud hosting and deployment technologies that could be used to ensure high availability, scalability, and efficient deployment of the porter booking system. AWS is a cloud computing platform provided by Amazon, Microsoft Azure is a cloud computing service provided by Microsoft, and Google Cloud Platform is a suite of cloud computing services provided by Google.
+
+8)	**Communication and interaction:**
+
+•	Obsidian
+
+•	GitHub
+These are platforms where co-works can connect share their ideas in an organised manner, without worrying about losing data. Tools such as Obsidian helps us keep track of all the conversations and ideas with the help mind map feature, which interlinks the conversations from the begin to the end. For sharing the code and related components GitHub is very efficient, it makes pushing a huge amount of files inside and outside easy, while keeping track of the changes.
+
+9) **Real-time GPS tracking:** 
+To implement real-time GPS tracking, the app can use software such as Google Maps API, Mapbox SDK, or HERE Maps API.
+
+10) **Artificial intelligence (AI) algorithms:** To implement AI algorithms, the app can use software such as TensorFlow, Keras, or PyTorch for machine learning and deep learning models.
+
+11) **Augmented reality (AR) navigation:** To implement AR navigation, the app can use software such as ARKit for iOS devices, ARCore for Android devices, or Vuforia for cross-platform development.
+
+12) **In-app messaging:** 
+To implement in-app messaging, the app can use software such as Firebase Cloud Messaging (FCM) or Pusher for real-time messaging.
+
+13)**Voice recognition:** 
+To implement voice recognition, the app can use software such as Google Cloud Speech-to-Text API, Amazon Transcribe API, or Microsoft Azure Speech Services API.
+
+14)**Integration with third-party services:** 
+To integrate with third-party services, the app can use software such as RESTful APIs or GraphQL APIs to connect with external services such as weather APIs, traffic APIs, or flight APIs.
+
+15)**Payment gateway integration:** 
+To implement payment gateway integration, the app can use software such as Stripe, PayPal, or Braintree for secure payment processing.
+
+16)**Multi-language support:** 
+To implement multi-language support, the app can use software such as the Android Localization Framework or the iOS Internationalization and Localization Guide to support multiple languages and regions. The app can also use machine translation services such as Google Cloud Translation API or Microsoft Azure Translator API to provide automatic translation.
+
+
+### **Advanced Features**
+
+Here are some more advanced features that could be implemented in a futuristic online porter booking system:
+
+**Augmented Reality (AR) Integration:** 
+AR technology can be integrated to help customers visualize how their items will fit into the porter's load and how much space they will occupy. This can help customers make more informed decisions when booking a porter.
+
+**Voice Recognition:** 
+Voice recognition technology can be implemented to allow customers to book a porter or make inquiries using their voice, without having to type.
+
+**Blockchain-based Payment System:** 
+A blockchain-based payment system could be implemented to make payments more secure, faster, and cheaper than traditional payment gateways.
+
+**Predictive Analytics:** 
+Predictive analytics can be used to analyze data on customer behavior, porter availability, and other factors to provide insights that can help optimize the booking process and improve the customer experience.
+
+**Smart Contracts:** 
+Smart contracts can be implemented to automate certain parts of the booking process, such as payments and contract execution, reducing the need for human intervention.
+
+**Intelligent Routing:** 
+AI and ML algorithms can be used to optimize the routing of porters based on various factors like traffic, weather, and customer preferences, ensuring faster and more efficient delivery of goods.
+
+**Social Media Integration:** 
+Integration with social media platforms like Facebook and Instagram can be implemented to allow customers to book a porter directly from these platforms.
+
+**Internet of Things (IoT) Integration:** 
+IoT devices like smart sensors and beacons can be used to track the location of porters and goods in real-time, providing more accurate delivery estimates to customers.
+
+These advanced features can significantly enhance the functionality and user experience of a futuristic online porter booking system, making it more efficient, secure, and customer-centric.
+
+
+### **Technology Gap compared to other compatitors**
+In terms of the technology gap with the current generation, the main difference is the use of AI and machine learning to implement chatbots. Many current online porter booking systems use rule-based chatbots, which are limited in their ability to understand natural language. With the use of AI and machine learning, futuristic online porter booking systems can provide a more natural and personalized chatbot experience. The major technology gap covered is 
+
+1) Natural Language Processing (NLP): 
+NLP is not commonly used in current generation online booking apps, but it can provide a more human-like interaction between the user and the chatbot. By understanding the context and intent behind user queries, the chatbot can provide more accurate and relevant responses, leading to a better user experience.
+
+2) Blockchain: 
+Blockchain technology is not yet commonly used in current generation online booking apps. However, a blockchain-based payment system can provide a more secure and transparent payment process that eliminates intermediaries and reduces the risk of fraud.
+
+3) Augmented Reality (AR): 
+AR technology is not yet commonly used in current generation online booking apps. By enabling users to visualize their porter and belongings in real-time, AR can provide a more immersive and interactive user experience.
+
+4) Internet of Things (IoT): 
+IoT technology is not yet commonly used in current generation online booking apps. However, IoT can automate and optimize the booking process by enabling smart devices to collect and transmit data in real-time.
+
+5) Big Data Analytics:
+While some current generation online booking apps use basic analytics to track user behavior and preferences, they do not leverage big data analytics to extract insights and patterns from the large volume of data generated by the platform. Big data analytics can enable the platform to optimize its performance and provide personalized recommendations to users.
+
+6) Serverless Computing: 
+Serverless computing is not yet commonly used in current generation online booking apps. By eliminating the need for servers and infrastructure management, serverless computing can reduce costs and enable the development team to focus on building features and functionalities.
+
+7) Cloud Computing: 
+A futuristic online porter booking system with advanced features would require a more robust and scalable infrastructure compared to the current generation online booking apps. Cloud computing technologies like AWS or GCP enable the platform to scale up or down based on demand and ensure a reliable and secure environment for the platform.
+
+8) Chatbot Technology: 
+A chatbot integration is not yet common in the current generation online booking apps. A chatbot provides 24/7 customer support, automates repetitive tasks, and enhances the user experience. By automating customer support, a chatbot frees up customer service representatives to focus on more complex inquiries and improve the overall efficiency of the platform
+
+In summary, our online porter booking system with advanced features has a technology gap compared to the current generation online booking apps in terms of cloud computing, chatbot technology, natural language processing, blockchain, augmented reality, IoT, big data analytics, and serverless computing. Implementing these advanced technologies can improve the overall efficiency, user experience, and security of the platform.
+
+### **Literature Review based on the technologies used**
 
 1. **Title: An internet-based logistics management system for enterprise chains**
 
@@ -169,97 +384,6 @@ Abstract:
 
 Communicating with customers through live chat interfaces has become an increasingly popular means to provide real-time customer service in many e-commerce settings. Today, human chat service agents are frequently replaced by conversational software agents or chatbots, which are systems designed to communicate with human users by means of natural language often based on artificial intelligence (AI). Though cost- and time-saving opportunities triggered a widespread implementation of AI-based chatbots, they still frequently fail to meet customer expectations, potentially resulting in users being less inclined to comply with requests made by the chatbot. Drawing on social response and commitment-consistency theory, we empirically examine through a randomized online experiment how verbal anthropomorphic design cues and the foot-in-the-door technique affect user request compliance. Our results demonstrate that both anthropomorphism as well as the need to stay consistent significantly increase the likelihood that users comply with a chatbot’s request for service feedback. Moreover, the results show that social presence mediates the effect of anthropomorphic design cues on user compliance.
 
-
-
-### **Technical Requirements and Technologies Implemented **
-
-1)	**Frontend Framework:**
-
-•	Angular
-
-•	React
-
-•	Vue.js
-
-•	HTML, CSS, JS
-
-                
-These are all front-end web development frameworks that could be used to create the user interface of the porter booking system. React is a JavaScript library for building user interfaces, Angular is a TypeScript-based web application framework, and Vue.js is a progressive JavaScript framework for building user interfaces.
-
-2)	**Backend Framework:**
-
-•	Node.js
-
-•	Ruby
-
-•	Python
-
-These are all server-side web development technologies that could be used to create the back-end logic of the porter booking system. Node.js is a JavaScript runtime built on the Chrome V8 engine, Ruby on Rails is a web application framework written in Ruby, and Python Flask is a micro web framework written in Python.
-
-3)	**Database Management System:**
-•	MySQL
-
-•	MangoDB
-
-These are all relational or NoSQL database management systems that could be used to store and manage data related to the porter booking system. MySQL is an open-source relational database management system, MongoDB is a NoSQL document-oriented database, and PostgreSQL is a powerful open-source object-relational database management system.
-
-4)	**Payment Gateway Integration:**
-
-•	Paypal
-
-•	Braintree
-
-These are all payment gateway integration services that could be used to enable secure online payment processing in the porter booking system. Stripe is a software platform for online payment processing, PayPal is a global online payment system, and Braintree is a full-stack payments platform that simplifies the online payment process.
-
-5)	**Real-time tracking and mapping API’s:**
-
-•	Google Maps API
-
-•	Mapbox API
-
-These are all real-time tracking and mapping APIs that could be used to enable real-time tracking of the porter's location and the customer's location in the porter booking system. Google Maps API is a web mapping service, Mapbox API is a location data platform, and Leaflet is an open-source JavaScript library for mobile-friendly interactive maps.
-
-6)	**Cloud hosting and Development:**
-
-•	 Google Cloud
-
-•	Microsoft Azure
-
-These are all cloud hosting and deployment technologies that could be used to ensure high availability, scalability, and efficient deployment of the porter booking system. AWS is a cloud computing platform provided by Amazon, Microsoft Azure is a cloud computing service provided by Microsoft, and Google Cloud Platform is a suite of cloud computing services provided by Google.
-
-7)	**Communication and interaction:**
-
-•	Obsidian
-
-•	GitHub
-These are platforms where co-works can connect share their ideas in an organised manner, without worrying about losing data. Tools such as Obsidian helps us keep track of all the conversations and ideas with the help mind map feature, which interlinks the conversations from the begin to the end. For sharing the code and related components GitHub is very efficient, it makes pushing a huge amount of files inside and outside easy, while keeping track of the changes.
-
-8) **Real-time GPS tracking:** 
-To implement real-time GPS tracking, the app can use software such as Google Maps API, Mapbox SDK, or HERE Maps API.
-
-9) **Artificial intelligence (AI) algorithms:** To implement AI algorithms, the app can use software such as TensorFlow, Keras, or PyTorch for machine learning and deep learning models.
-
-10) **Augmented reality (AR) navigation:** To implement AR navigation, the app can use software such as ARKit for iOS devices, ARCore for Android devices, or Vuforia for cross-platform development.
-
-11) **In-app messaging:** 
-To implement in-app messaging, the app can use software such as Firebase Cloud Messaging (FCM) or Pusher for real-time messaging.
-
-12)**Voice recognition:** 
-To implement voice recognition, the app can use software such as Google Cloud Speech-to-Text API, Amazon Transcribe API, or Microsoft Azure Speech Services API.
-
-13)**Integration with third-party services:** 
-To integrate with third-party services, the app can use software such as RESTful APIs or GraphQL APIs to connect with external services such as weather APIs, traffic APIs, or flight APIs.
-
-14)**Payment gateway integration:** 
-To implement payment gateway integration, the app can use software such as Stripe, PayPal, or Braintree for secure payment processing.
-
-15)**Multi-language support:** 
-To implement multi-language support, the app can use software such as the Android Localization Framework or the iOS Internationalization and Localization Guide to support multiple languages and regions. The app can also use machine translation services such as Google Cloud Translation API or Microsoft Azure Translator API to provide automatic translation.
-
-### **Technology Gap compared to other compatitors**
-In terms of the technology gap with the current generation, the main difference is the use of AI and machine learning to implement chatbots. Many current online porter booking systems use rule-based chatbots, which are limited in their ability to understand natural language. With the use of AI and machine learning, futuristic online porter booking systems can provide a more natural and personalized chatbot experience. Additionally, the use of blockchain technology is still in its early stages in the online porter booking industry, and many systems still rely on traditional payment systems.
-
-
 ### **Phase Based Work Break Structure:**
 
 We are following incremental model as it is best suited for project. It reduces the room for error and consumes less time.
@@ -293,37 +417,6 @@ The Second part which is done by Parth consists of
 We will be hiring interns, project managers, testers, ML and AI developers to implement the remaining components. For the investment we are approching investors, VC's and incubators.
  
 ![image](https://user-images.githubusercontent.com/124272210/222787146-6b6c0e74-5c12-48d1-acd1-d0d5dbf69a7f.png)
-
-
-### **Advanced Features**
-
-Here are some more advanced features that could be implemented in a futuristic online porter booking system:
-
-**Augmented Reality (AR) Integration:** 
-AR technology can be integrated to help customers visualize how their items will fit into the porter's load and how much space they will occupy. This can help customers make more informed decisions when booking a porter.
-
-**Voice Recognition:** 
-Voice recognition technology can be implemented to allow customers to book a porter or make inquiries using their voice, without having to type.
-
-**Blockchain-based Payment System:** 
-A blockchain-based payment system could be implemented to make payments more secure, faster, and cheaper than traditional payment gateways.
-
-**Predictive Analytics:** 
-Predictive analytics can be used to analyze data on customer behavior, porter availability, and other factors to provide insights that can help optimize the booking process and improve the customer experience.
-
-**Smart Contracts:** 
-Smart contracts can be implemented to automate certain parts of the booking process, such as payments and contract execution, reducing the need for human intervention.
-
-**Intelligent Routing:** 
-AI and ML algorithms can be used to optimize the routing of porters based on various factors like traffic, weather, and customer preferences, ensuring faster and more efficient delivery of goods.
-
-**Social Media Integration:** 
-Integration with social media platforms like Facebook and Instagram can be implemented to allow customers to book a porter directly from these platforms.
-
-**Internet of Things (IoT) Integration:** 
-IoT devices like smart sensors and beacons can be used to track the location of porters and goods in real-time, providing more accurate delivery estimates to customers.
-
-These advanced features can significantly enhance the functionality and user experience of a futuristic online porter booking system, making it more efficient, secure, and customer-centric.
 
 ### **Ideation and Conversations**
 
