@@ -77,20 +77,20 @@ Overall, an online booking system for porters can provide a better and more effi
 1) Cab-O-Coolie:
 This online platform connects travelers with local porters who can assist with carrying their luggage. Users can book a porter through the website or mobile app. Website: https://www.cabocoolie.com/
 They use 
--GPS and Location-based Services
--Payment Gateway Integration
--Cloud Computing
--chatbot technology
--AI and Ml
+i)GPS and Location-based Services
+ii)Payment Gateway Integration
+iii)Cloud Computing
+iv)chatbot technology
+v)AI and Ml
 
 2) LugLess: 
 This platform allows users to book luggage shipping and porter services online. The company partners with local porters to provide luggage assistance to travelers. Website: https://www.lugless.com/
 They use 
--RESTful API
--GPS and Location-based Services
--Payment Gateway Integration
--chatbot technology
--AI and Ml
+i)RESTful API
+ii)GPS and Location-based Services
+iii)Payment Gateway Integration
+iv)chatbot technology
+v)AI and Ml
 
 3) PorterGenie:
 This online porter booking system allows travelers to book porters for assistance with their luggage at airports, train stations, and hotels. Website: https://portergenie.com/
@@ -120,20 +120,20 @@ This platform offers luggage delivery and porter services at airports, hotels, a
 10) CityStasher: 
 This platform offers luggage storage and porter services at locations in the UK and Europe. Users can book a porter through the website or mobile app. Website: https://www.citystasher.com/
 
-**Result**
+### **Result**
 After conducting our research we found that all the above mentioned references are haveing similar advanced technologies being implemented. Even though few of them are lagging behind technology wise, all other have the following latest technologies implemented 
 
-Mobile Application Development: Mobile applications for both Android and iOS platforms that allow users to book cabs and rides on the go. The app could be developed using native mobile app development frameworks like Java for Android and Swift for iOS.
+1) Mobile Application Development: Mobile applications for both Android and iOS platforms that allow users to book cabs and rides on the go. The app could be developed using native mobile app development frameworks like Java for Android and Swift for iOS.
 
-GPS and Location-based Services: GPS and location-based services to track the location of the user and the driver, enabling real-time tracking and accurate navigation.
+2) GPS and Location-based Services: GPS and location-based services to track the location of the user and the driver, enabling real-time tracking and accurate navigation.
 
-Payment Gateway Integration: Pay for their rides and cab bookings online. The platform could use payment gateway integrations like Paytm, UPI, or other online payment platforms to facilitate seamless and secure transactions.
+3) Payment Gateway Integration: Pay for their rides and cab bookings online. The platform could use payment gateway integrations like Paytm, UPI, or other online payment platforms to facilitate seamless and secure transactions.
 
-Cloud Computing: Cloud computing technologies to store and manage data, allowing for scalability and flexibility.
+4) Cloud Computing: Cloud computing technologies to store and manage data, allowing for scalability and flexibility.
 
-Chatbot Technology: Implementing chatbot technology to provide 24/7 customer support to users, enabling them to resolve their queries and issues in real-time.
+5) Chatbot Technology: Implementing chatbot technology to provide 24/7 customer support to users, enabling them to resolve their queries and issues in real-time.
 
-Artificial Intelligence and Machine Learning: AI and machine learning algorithms to optimize their services and provide personalized recommendations to users based on their ride history and preferences.
+6) Artificial Intelligence and Machine Learning: AI and machine learning algorithms to optimize their services and provide personalized recommendations to users based on their ride history and preferences.
 
 
 ### **Technical Requirements and Technologies Implemented **
