@@ -77,20 +77,20 @@ Overall, an online booking system for porters can provide a better and more effi
 1) Cab-O-Coolie:
 This online platform connects travelers with local porters who can assist with carrying their luggage. Users can book a porter through the website or mobile app. Website: https://www.cabocoolie.com/
 They use 
-i)GPS and Location-based Services
-ii)Payment Gateway Integration
-iii)Cloud Computing
-iv)chatbot technology
-v)AI and Ml
+ i)GPS and Location-based Services
+ ii)Payment Gateway Integration
+ iii)Cloud Computing
+ iv)chatbot technology
+ v)AI and Ml
 
 2) LugLess: 
 This platform allows users to book luggage shipping and porter services online. The company partners with local porters to provide luggage assistance to travelers. Website: https://www.lugless.com/
 They use 
-i)RESTful API
-ii)GPS and Location-based Services
-iii)Payment Gateway Integration
-iv)chatbot technology
-v)AI and Ml
+ i)RESTful API
+ ii)GPS and Location-based Services
+ iii)Payment Gateway Integration
+ iv)chatbot technology
+ v)AI and Ml
 
 3) PorterGenie:
 This online porter booking system allows travelers to book porters for assistance with their luggage at airports, train stations, and hotels. Website: https://portergenie.com/
