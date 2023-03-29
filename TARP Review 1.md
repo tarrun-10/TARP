@@ -50,8 +50,8 @@ Porters end up carrying more weight which can harm their body.
 
 7. **Lack of advanced technology:**
 The latest and advanced features such as 
- 1)Real-time GPS tracking
- 2)Artificial intelligence (AI) algorithms
+ --Real-time GPS tracking
+ --Artificial intelligence (AI) algorithms
  --Augmented reality (AR) navigation
  --In-app messaging
  --Voice recognition
