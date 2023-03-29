@@ -49,9 +49,9 @@ not have access to legal recourse if they are mistreated or not paid for their w
 Porters end up carrying more weight which can harm their body.
 
 7. **Lack of advanced technology:**
-The latest and advanced features such as 
- **--Real-time GPS tracking**
- **--Artificial intelligence (AI) algorithms**
+The latest and advanced features such as   
+**Real-time GPS tracking**
+ **Artificial intelligence (AI) algorithms**
  --Augmented reality (AR) navigation
  --In-app messaging
  --Voice recognition
