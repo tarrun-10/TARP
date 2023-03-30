@@ -100,17 +100,13 @@ This platform connects travelers with personal assistants, including porters, wh
 This platform allows users to book luggage storage and porter services online. The company partners with local porters to provide luggage assistance to travelers. Website: https://luggagehero.com/
 
 6) Portr: 
-This platform offers on-demand baggage porters at airports and train stations. Users can book a porter through the website or mobile app. Website: https://www.portr.com/
-
-Portr is a mobile app that offers on-demand baggage porters at airports and train stations. The app is built using React Native. The app uses a RESTful API to connect travelers with local porters
+This platform offers on-demand baggage porters at airports and train stations. Users can book a porter through the website or mobile app. Website: https://www.portr.com/ Portr is a mobile app that offers on-demand baggage porters at airports and train stations. The app is built using React Native. The app uses a RESTful API to connect travelers with local porters
 
 7) Bags VIP: 
-This platform provides baggage delivery and porter services at select airports in the United States. Users can book a porter through the website or mobile app. Website: https://www.maketraveleasier.com/
-Bags VIP is an online platform that provides baggage delivery and porter services at select airports in the United States. The platform is built using a combination of technologies, including HTML, CSS, JavaScript, and PHP. The platform uses a RESTful API to connect users with local porters.
+This platform provides baggage delivery and porter services at select airports in the United States. Users can book a porter through the website or mobile app. Website: https://www.maketraveleasier.com/ . Bags VIP is an online platform that provides baggage delivery and porter services at select airports in the United States. The platform is built using a combination of technologies, including HTML, CSS, JavaScript, and PHP. The platform uses a RESTful API to connect users with local porters.
 
 8) Airportr: 
-This platform provides luggage porters and delivery services at airports in the UK and Europe. Users can book a porter through the website or mobile app. Website: https://www.airportr.com/
-Airportr is an online platform that provides on-demand baggage porters and baggage delivery services at select airports in the UK and Europe. The platform is built using a combination of technologies, including HTML, CSS, JavaScript, and PHP. The platform uses a RESTful API to connect users with local porters.
+This platform provides luggage porters and delivery services at airports in the UK and Europe. Users can book a porter through the website or mobile app. Website: https://www.airportr.com/ . Airportr is an online platform that provides on-demand baggage porters and baggage delivery services at select airports in the UK and Europe. The platform is built using a combination of technologies, including HTML, CSS, JavaScript, and PHP. The platform uses a RESTful API to connect users with local porters.
 
 9) LuggAgent: 
 This platform offers luggage delivery and porter services at airports, hotels, and train stations. Users can book a porter through the website or mobile app. Website: https://luggagent.com/
@@ -118,7 +114,7 @@ This platform offers luggage delivery and porter services at airports, hotels, a
 10) CityStasher: 
 This platform offers luggage storage and porter services at locations in the UK and Europe. Users can book a porter through the website or mobile app. Website: https://www.citystasher.com/
 
-**Result**
+####**Result**
 After conducting our research we found that all the above mentioned references are haveing similar advanced technologies being implemented. Even though few of them are lagging behind technology wise, all other have the following latest technologies implemented 
 
 1) Mobile Application Development: Mobile applications for both Android and iOS platforms that allow users to book cabs and rides on the go. The app could be developed using native mobile app development frameworks like Java for Android and Swift for iOS.
