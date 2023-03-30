@@ -19,7 +19,8 @@ Parth S Parker - 20BCB0061
 
 The vision of an online porter booking system is to streamline the process of hiring a
 porter by providing a platform that allows users to easily find, book, and pay for the
-services of porters.
+services of porters. By implementing the latest technologies we will attract the 
+customers in large scale by making it extremely user friendly and convinient.
 
 
 ### **Problem Discription**
@@ -46,6 +47,18 @@ not have access to legal recourse if they are mistreated or not paid for their w
 
 6. **Weight Limit:** 
 Porters end up carrying more weight which can harm their body.
+
+7. **Lack of advanced technology:**
+The latest and advanced features such as 
+ --Real-time GPS tracking
+ --Artificial intelligence (AI) algorithms
+ --Augmented reality (AR) navigation
+ --In-app messaging
+ --Voice recognition
+ --Integration with third-party services
+ --Payment gateway integration
+ --Multi-language support
+ Many other features that we will be mentioning below are not being implemented by anyone.
 
 ### **Motivation for Topic Selection:**
 
@@ -157,7 +170,7 @@ Communicating with customers through live chat interfaces has become an increasi
 
 
 
-### **Technical Requirements**
+### **Technical Requirements and Technologies Implemented **
 
 1)	**Frontend Framework:**
 
@@ -218,8 +231,37 @@ These are all cloud hosting and deployment technologies that could be used to en
 •	Obsidian
 
 •	GitHub
-
 These are platforms where co-works can connect share their ideas in an organised manner, without worrying about losing data. Tools such as Obsidian helps us keep track of all the conversations and ideas with the help mind map feature, which interlinks the conversations from the begin to the end. For sharing the code and related components GitHub is very efficient, it makes pushing a huge amount of files inside and outside easy, while keeping track of the changes.
+
+8) **Real-time GPS tracking:** 
+To implement real-time GPS tracking, the app can use software such as Google Maps API, Mapbox SDK, or HERE Maps API.
+
+9) **Artificial intelligence (AI) algorithms:** To implement AI algorithms, the app can use software such as TensorFlow, Keras, or PyTorch for machine learning and deep learning models.
+
+10) **Augmented reality (AR) navigation:** To implement AR navigation, the app can use software such as ARKit for iOS devices, ARCore for Android devices, or Vuforia for cross-platform development.
+
+11) **In-app messaging:** 
+To implement in-app messaging, the app can use software such as Firebase Cloud Messaging (FCM) or Pusher for real-time messaging.
+
+12)**Voice recognition:** 
+To implement voice recognition, the app can use software such as Google Cloud Speech-to-Text API, Amazon Transcribe API, or Microsoft Azure Speech Services API.
+
+13)**Integration with third-party services:** 
+To integrate with third-party services, the app can use software such as RESTful APIs or GraphQL APIs to connect with external services such as weather APIs, traffic APIs, or flight APIs.
+
+14)**Payment gateway integration:** 
+To implement payment gateway integration, the app can use software such as Stripe, PayPal, or Braintree for secure payment processing.
+
+15)**Multi-language support:** 
+To implement multi-language support, the app can use software such as the Android Localization Framework or the iOS Internationalization and Localization Guide to support multiple languages and regions. The app can also use machine translation services such as Google Cloud Translation API or Microsoft Azure Translator API to provide automatic translation.
+
+### **Technology Gap compared to other compatitors**
+
+**-** In terms of the technology gap with the current generation, the main difference is the use of AI and machine learning to implement chatbots. 
+
+**-** Many current online porter booking systems use rule-based chatbots, which are limited in their ability to understand natural language. With the use of AI and machine learning, futuristic online porter booking systems can provide a more natural and personalized chatbot experience. 
+
+**-** Additionally, the use of blockchain technology is still in its early stages in the online porter booking industry, and many systems still rely on traditional payment systems.
 
 
 ### **Phase Based Work Break Structure:**
@@ -251,57 +293,10 @@ The Second part which is done by Parth consists of
 
 •	Payment Gateway
 
-
+**External Help**
+We will be hiring interns, project managers, testers, ML and AI developers to implement the remaining components. For the investment we are approching investors, VC's and incubators.
  
 ![image](https://user-images.githubusercontent.com/124272210/222787146-6b6c0e74-5c12-48d1-acd1-d0d5dbf69a7f.png)
-
- 
-
-
-
-### **Some highly technical aspects that ar incorporated into a porter booking app along with the respective software and technologies are:**
-
-Real-time GPS tracking: 
-To implement real-time GPS tracking, the app can use software such as **Google Maps API, Mapbox SDK, or HERE Maps API.**
-
-Artificial intelligence (AI) algorithms: 
-To implement AI algorithms, the app can use software such as **TensorFlow, Keras, or PyTorch** for machine learning and deep learning models.
-
-Augmented reality (AR) navigation: 
-To implement AR navigation, the app can use software such as **ARKit for iOS devices, ARCore for Android devices, or Vuforia for cross-platform development.**
-
-In-app messaging: 
-To implement in-app messaging, the app can use software such as **Firebase Cloud Messaging (FCM) or Pusher** for real-time messaging.
-
-Voice recognition: 
-To implement voice recognition, the app can use software such as **Google Cloud Speech-to-Text API, Amazon Transcribe API, or Microsoft Azure Speech Services API.**
-
-Integration with third-party services: 
-To integrate with third-party services, the app can use software such as **RESTful APIs or GraphQL APIs to connect with external services such as weather APIs, traffic APIs, or flight APIs.**
-
-Payment gateway integration: 
-To implement payment gateway integration, the app can use software such as **Stripe, PayPal, or Braintree for secure payment processing.**
-
-Multi-language support: 
-To implement multi-language support, the app can use software such as the Android Localization Framework or the iOS Internationalization and Localization Guide to support multiple languages and regions. The app can also use machine translation services such as **Google Cloud Translation API or Microsoft Azure Translator API to provide automatic translation.**
-
-**Cloud computing:** 
-Cloud computing is a technology that enables the delivery of computing services over the internet. Using cloud computing, you can host your online porter booking system on a cloud server, which will provide scalability, high availability, and cost-effectiveness.
-
-**Artificial intelligence and machine learning:** 
-AI and machine learning can be used to implement a chatbot that can interact with customers in a natural language. By using natural language processing (NLP) and machine learning algorithms, the chatbot can understand the user's intent and provide relevant information.
-
-**Big data and analytics:** 
-By using big data and analytics, you can collect and analyze customer data to gain insights into their preferences, behavior, and needs. This can help you personalize the customer experience and provide better recommendations.
-
-**Blockchain:** 
-Blockchain technology can be used to provide a secure and transparent payment system for your online porter booking system. By using blockchain, you can ensure that transactions are secure, tamper-proof, and transparent.
-
-**Mobile app development:** 
-You can develop a mobile app for your online porter booking system to provide a seamless experience to customers. By using mobile app development technologies, you can provide features like push notifications, real-time updates, and location-based services.
-
-### **Technology Gap**
-In terms of the technology gap with the current generation, the main difference is the use of AI and machine learning to implement chatbots. Many current online porter booking systems use rule-based chatbots, which are limited in their ability to understand natural language. With the use of AI and machine learning, futuristic online porter booking systems can provide a more natural and personalized chatbot experience. Additionally, the use of blockchain technology is still in its early stages in the online porter booking industry, and many systems still rely on traditional payment systems.
 
 
 ### **Advanced Features**
@@ -333,8 +328,6 @@ Integration with social media platforms like Facebook and Instagram can be imple
 IoT devices like smart sensors and beacons can be used to track the location of porters and goods in real-time, providing more accurate delivery estimates to customers.
 
 These advanced features can significantly enhance the functionality and user experience of a futuristic online porter booking system, making it more efficient, secure, and customer-centric.
-
-
 
 ### **Ideation and Conversations**
 
