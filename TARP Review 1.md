@@ -256,7 +256,12 @@ To implement payment gateway integration, the app can use software such as Strip
 To implement multi-language support, the app can use software such as the Android Localization Framework or the iOS Internationalization and Localization Guide to support multiple languages and regions. The app can also use machine translation services such as Google Cloud Translation API or Microsoft Azure Translator API to provide automatic translation.
 
 ### **Technology Gap compared to other compatitors**
-In terms of the technology gap with the current generation, the main difference is the use of AI and machine learning to implement chatbots. Many current online porter booking systems use rule-based chatbots, which are limited in their ability to understand natural language. With the use of AI and machine learning, futuristic online porter booking systems can provide a more natural and personalized chatbot experience. Additionally, the use of blockchain technology is still in its early stages in the online porter booking industry, and many systems still rely on traditional payment systems.
+
+**-** In terms of the technology gap with the current generation, the main difference is the use of AI and machine learning to implement chatbots. 
+
+**-** Many current online porter booking systems use rule-based chatbots, which are limited in their ability to understand natural language. With the use of AI and machine learning, futuristic online porter booking systems can provide a more natural and personalized chatbot experience. 
+
+**-** Additionally, the use of blockchain technology is still in its early stages in the online porter booking industry, and many systems still rely on traditional payment systems.
 
 
 ### **Phase Based Work Break Structure:**
