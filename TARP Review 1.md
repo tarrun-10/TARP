@@ -9,8 +9,6 @@ S.Tarrun - 20BCE2434
 Parth S Parker - 20BCB0061
 
 #### **Submitted To:** Prof. Manoov R
-777
-
 # 
 
 
@@ -120,7 +118,7 @@ This platform offers luggage delivery and porter services at airports, hotels, a
 10) CityStasher: 
 This platform offers luggage storage and porter services at locations in the UK and Europe. Users can book a porter through the website or mobile app. Website: https://www.citystasher.com/
 
-### **Result**
+**Result**
 After conducting our research we found that all the above mentioned references are haveing similar advanced technologies being implemented. Even though few of them are lagging behind technology wise, all other have the following latest technologies implemented 
 
 1) Mobile Application Development: Mobile applications for both Android and iOS platforms that allow users to book cabs and rides on the go. The app could be developed using native mobile app development frameworks like Java for Android and Swift for iOS.
