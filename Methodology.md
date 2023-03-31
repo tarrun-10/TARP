@@ -86,3 +86,5 @@ Research papers
 18)	"A Personalized Travel Recommendation System Based on User Preferences and Location History" by Yan Liu, Huiying Liu, and Yufeng Qian - This paper presents a personalized travel recommendation system based on user preferences and location history. The authors propose a hybrid approach that combines collaborative filtering and content-based filtering to generate customized travel itineraries for users.
 
 19)	"An Online System for Tourism Destination Image Analysis Using Social Media Data" by Huijuan Wu, Wei Xu, and Ningyuan Zhang - This research proposes an online system for tourism destination image analysis using social media data. The authors demonstrate that their system can extract and analyze user-generated content from social media platforms to evaluate the image and reputation of tourism destinations.
+
+### **Thank You!!**
