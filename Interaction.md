@@ -18,6 +18,8 @@ To compelete our project we wanted to communicate with each other effectively, w
 
 ![eb93b1b1-87b7-490f-a20e-29e8a87f904a](https://user-images.githubusercontent.com/124272210/229029943-bf9a5536-765a-496a-a67f-270252f8ae01.jpg)
 
+## **Conversation headings**
+
 ### **How to switch coolies from using the traditional systems to our app:**
 
 1. Button phones and message boards
@@ -69,6 +71,7 @@ For customer queries *ChatGPT's Chatbot* *Latest*?
 
 *Support and training for Coolies*
 
+## **Conversation**
 
 ### **How to switch Coolies from Traditional Systems to our system?**
 
