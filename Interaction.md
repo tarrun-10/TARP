@@ -72,7 +72,7 @@ For customer queries *ChatGPT's Chatbot* *Latest*?
 
 ### **How to switch Coolies from Traditional Systems to our system?**
 
-**Build Trust and Credibility**
+#### **Build Trust and Credibility**
 
 Tarrun:
 
@@ -82,7 +82,7 @@ Parth:
 
 I completely agree. And it's also important to actively engage with coolies and gather their feedback on the platform and their experiences. This will help us to identify areas for improvement and make any necessary changes to ensure that coolies are happy and satisfied with our platform.
 
-**Button phones and message boards**
+#### **Button phones and message boards**
 
 Tarrun :
 
@@ -93,7 +93,7 @@ Parth :
 That is a really good idea Tarrun, we can also show display boards in front of the train station which the coolies can use for checking job availabilty.
 
 
-**Inituitive and User Friendly**
+#### **Inituitive and User Friendly**
 
 Tarrun:
 
@@ -104,7 +104,7 @@ Parth:
 I couldn't agree more. And it's important to have a robust and reliable platform, with features such as real-time tracking, in-app messaging, and real-time updates on the status of bookings. This will help coolies to provide a better service to customers and increase their efficiency.
 
 
-**Managing Disputes and Resolving**
+#### **Managing Disputes and Resolving**
 
 Tarrun:
 
@@ -115,7 +115,7 @@ Parth:
 I couldn't agree more, Tarun. By taking these steps, we can encourage coolies to switch from traditional systems to our coolie booking app start-up, and provide them with a more efficient and effective way to work. This will help to create a positive and sustainable business model for our coolie booking app start-up.
 
 
-**Teaching Coolies**
+#### **Teaching Coolies**
 
 Tarrun:
 
@@ -127,7 +127,7 @@ I agree, Tarun. One way to do this is to provide coolies with incentives for usi
 
 ### **Business Model**
 
-**Complete Business**
+#### **Complete Business**
 
 Tarrun - It provides a clear and comprehensive understanding of the business, its target market, revenue streams, and operating costs.
 
@@ -141,7 +141,7 @@ Tarrun - Makes sence but by it Increases the chances of securing funding from in
 
 Parth - The model may be too rigid, and the team may not be able to adapt to changes in the market or the needs of customers.
 
-**Step by Step**
+#### **Step by Step**
 
 Parth - Allows for more flexibility and adaptability as the project evolves and the market and customer needs change.
 
@@ -159,7 +159,7 @@ Tarrun - The team may not be able to secure funding from investors, as the busin
 
 ### **Technical and Software Requirements**
 
-**Chat GPT**
+#### **Chat GPT**
 
 1. Advantages
 
@@ -199,7 +199,7 @@ Parth:
 
 I completely agree. And it's also important to regularly monitor and update the chatbot to ensure it remains effective and relevant. This could include updating the chatbot's knowledge base, adding new features and capabilities, and addressing any issues that may arise.
 
-**Analysis and Reporting Tools**
+#### **Analysis and Reporting Tools**
 
 Tarrun:
 
@@ -211,7 +211,7 @@ That's a great point, Tarun. I think that these are all critical software and te
 
 
 
-**Mapping System**
+#### **Mapping System**
 
 Tarrun:
 
@@ -223,7 +223,7 @@ I agree with you Tarun, but I think that real-time communication is also a criti
 
 
 
-**Scalable model**
+#### **Scalable model**
 
 Tarrun:
 
@@ -235,7 +235,7 @@ I couldn't agree more. The platform should also have an admin dashboard that all
 
 
 
-**Secure Date Way**
+#### **Secure Date Way**
 
 Tarrun:
 
@@ -248,7 +248,7 @@ That's a great point, I completely agree. Security is a top priority for any pla
 
 ### **Coolie and User Interaction**
 
-**Customer Satisfaction**
+#### **Customer Satisfaction**
 
 Tarrun:
 
@@ -258,7 +258,7 @@ Parth:
 
 I agree, Tarun. One way to do this is to have a user-friendly interface that allows for easy booking and communication between coolies and users. This could include features such as real-time tracking of coolies, in-app messaging, and real-time updates on the status of bookings.
 
-**Multiple payment options**
+#### **Multiple payment options**
 
 Tarrun:
 
@@ -270,7 +270,7 @@ I completely agree. And it's also important to have a system in place for managi
 
 
 
-**Rewards and Incentives System**
+#### **Rewards and Incentives System**
 
 Tarrun:
 
@@ -281,7 +281,7 @@ Parth:
 That's a great point, Tarun. By taking these steps, we can ensure that coolies and users have a positive and seamless interaction through our platform, and that both are able to receive the services they need in a timely and effective manner. This will help to create a positive and sustainable business model for our coolie booking app start-up.
 
 
-**Transperancy and Accountability**
+#### **Transperancy and Accountability**
 
 Tarrun:
 
@@ -295,7 +295,7 @@ I couldn't agree more. It's also important to have a system in place for gatheri
 
 ### **Safety Protocols**
 
-**Coolie Safety**
+#### **Coolie Safety**
 
 Tarrun:
 
@@ -305,7 +305,7 @@ Parth:
 
 I agree, Tarun. One way to handle this issue is to have a system in place for verifying the age and weight of coolies before they are able to work on the platform. This could include a simple self-declaration system or a more robust verification process, such as a medical examination.
 
-**Support and Training**
+#### **Support and Training**
 
 Tarrun:
 
@@ -315,7 +315,7 @@ Parth:
 
 I agree, Tarun. It's also important to have a system in place for handling complaints and resolving any issues that may arise, such as disputes over weight limitations. This could include an in-app messaging system or a dedicated customer support team.
 
-**Weight Limit Guidelines**
+#### **Weight Limit Guidelines**
 
 Tarrun:
 
@@ -327,7 +327,7 @@ I couldn't agree more. And it's important to make sure that these weight limitat
 
 ### **Coolie Exploitation**
 
-**Coolies Credibility**
+#### **Coolies Credibility**
 
 Tarrun:
 
@@ -338,7 +338,7 @@ Parth:
 That's a great point, Tarun. And we should also provide support and training to coolies to help them perform their job to the best of their ability. This could include training on customer service, safety procedures, and effective communication skills.
 
 
-**Fair Payment**
+#### **Fair Payment**
 
 Tarrun:
 
@@ -350,7 +350,7 @@ I completely agree, Tarun. We need to have strong policies in place that ensure 
 
 
 
-**Feedback**
+#### **Feedback**
 
 Tarrun:
 
@@ -362,7 +362,7 @@ I couldn't agree more, Tarun. By taking these steps, we can ensure that coolies 
 
 
 
-**Transparent Payment Processing**
+#### **Transparent Payment Processing**
 
 Tarrun:
 
