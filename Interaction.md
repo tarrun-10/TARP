@@ -18,7 +18,7 @@ To compelete our project we wanted to communicate with each other effectively, w
 
 ![eb93b1b1-87b7-490f-a20e-29e8a87f904a](https://user-images.githubusercontent.com/124272210/229029943-bf9a5536-765a-496a-a67f-270252f8ae01.jpg)
 
-How to switch coolies from using the traditional systems to our app:
+### **How to switch coolies from using the traditional systems to our app:**
 
 1. Button phones and message boards
 2. Teaching Coolies
@@ -26,7 +26,7 @@ How to switch coolies from using the traditional systems to our app:
 4. Build Trust and Credibility
 5. Managing Disputes and Resolving
 
-####  **Technical Requirements:**
+###  **Technical Requirements:**
 
 Do we need to impliment a *Mapping System* ?
 
@@ -38,7 +38,7 @@ Incorparating *Analysis and Reporting Tools*?
 
 For customer queries *ChatGPT's Chatbot* *Latest*?
 
-#### **Prevention from Coolie Exploitation :**
+### **Prevention from Coolie Exploitation :**
 
 *Fair Payment*
 
@@ -50,7 +50,7 @@ For customer queries *ChatGPT's Chatbot* *Latest*?
 
 
 
-#### **Coolie and User interaction :**
+### **Coolie and User interaction :**
 
 *Customer Satisfaction*
 
@@ -61,7 +61,7 @@ For customer queries *ChatGPT's Chatbot* *Latest*?
 *Rewards and Incentives System*
 
 
-#### **Weight limitation according to age :**
+### **Weight limitation according to age :**
 
 *Coolie Safety*
 
@@ -70,7 +70,7 @@ For customer queries *ChatGPT's Chatbot* *Latest*?
 *Support and training for Coolies*
 
 
-#### **How to switch Coolies from Traditional Systems to our system?**
+### **How to switch Coolies from Traditional Systems to our system?**
 
 **Build Trust and Credibility**
 
