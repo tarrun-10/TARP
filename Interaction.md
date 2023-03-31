@@ -12,9 +12,7 @@ Parth S Parker - 20BCB0061
 
 ## **Ideation and Conversations**
 
-An online porter booking system is to streamline the process of hiring a porter by providing a platform that allows users to easily find, book, and pay for the services of porters. Which provides solution for many of problems (mentioned above) faced by people and the porters as well.
-
-We have to prepare a Complete business plan before starting the project discussing the Step by Step processes.
+To compelete our project we wanted to communicate with each other effectively, without loosing track of our conversation. So we used **OBSIDIAN** as the platform for sharing our ideas. Obsidian generated mind maps based on our conversation which made it easy to keep track of our conversation. We made major decision with help of obsidian. 
 
 How to switch coolies from using the traditional systems to our app:
 
@@ -68,7 +66,7 @@ For customer queries *ChatGPT's Chatbot* *Latest*?
 *Support and training for Coolies*
 
 
-### **How to switch Coolies from Traditional Systems to our system?**
+#### **How to switch Coolies from Traditional Systems to our system?**
 
 **Build Trust and Credibility**
 
