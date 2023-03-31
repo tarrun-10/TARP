@@ -14,6 +14,10 @@ Parth S Parker - 20BCB0061
 
 To compelete our project we wanted to communicate with each other effectively, without loosing track of our conversation. So we used **OBSIDIAN** as the platform for sharing our ideas. Obsidian generated mind maps based on our conversation which made it easy to keep track of our conversation. We made major decision with help of obsidian. 
 
+### **Obsidian Output**
+
+![eb93b1b1-87b7-490f-a20e-29e8a87f904a](https://user-images.githubusercontent.com/124272210/229029943-bf9a5536-765a-496a-a67f-270252f8ae01.jpg)
+
 How to switch coolies from using the traditional systems to our app:
 
 1. Button phones and message boards
