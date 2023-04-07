@@ -371,7 +371,8 @@ Obsidian can be used to manage tasks and assignments related to the NLP Induced 
 
 In summary, Obsidian can be a valuable tool for facilitating ideation and conversation for implementing an NLP Induced Chatbot System for Cross Lingual Communication. It can be used for brainstorming ideas, collaborative note-taking, knowledge management, and task management. By using Obsidian in conjunction with other tools and methodologies, such as NLP tools, machine learning algorithms, cloud computing, APIs, and programming languages, teams can ensure that the project is executed efficiently and effectively.
 
-![image](https://user-images.githubusercontent.com/124272210/230560398-77d6bb0e-fdc6-4df6-b53e-6211283f6841.png)
+![image](https://user-images.githubusercontent.com/124272210/230565676-bfaefaee-7fe3-443e-b5c5-77dc0307f425.png)
+
 
 
 ### **Methodology and Requirements**
