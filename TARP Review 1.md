@@ -363,7 +363,7 @@ Based on their research, Parth and Tarrun developed a detailed business plan, ou
 
 The technical requirements of the chatbot system were also challenging. Parth and Tarrun realized that they would need to invest heavily in NLP algorithms and machine learning models to achieve the level of accuracy they desired. They also knew that designing an intuitive user interface that could handle multiple languages would be crucial to the system's success.
 
-Assembling a team with the necessary expertise was a significant challenge. Parth and Tarrun knew that they would need to hire top talent in NLP, machine learning, and UI/UX
+Assembling a team with the necessary expertise was a significant challenge. Parth and Tarrun knew that they would need to hire top talent in NLP, machine learning, and UI/UX.
 
 
 
