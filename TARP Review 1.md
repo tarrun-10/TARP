@@ -139,6 +139,27 @@ Limited coverage of recent advancements in unsupervised NMT, as the field is sti
 Limited focus on other unsupervised machine translation techniques beyond neural approaches, such as phrase-based or pivot-based methods.
 Limited discussion on challenges and limitations of unsupervised NMT, such as handling language-specific syntactic or semantic differences, or mitigating the risk of generating inaccurate translations without parallel data for supervision.
 
+### ** Technology Required**
+
+**Natural Language Processing (NLP):** NLP techniques are used to analyze and process text or voice inputs in different languages, including tasks such as language identification, text segmentation, named entity recognition, part-of-speech tagging, sentiment analysis, and machine translation.
+
+**Machine Translation (MT):** MT technology is used to automatically translate text from one language to another. This could involve rule-based, statistical, or neural machine translation approaches, depending on the requirements and accuracy desired.
+
+**Speech Recognition:** Speech recognition technology is used to convert voice recordings into text, allowing users to provide input through voice recordings. This may involve automatic speech recognition (ASR) techniques that transcribe spoken language into written text.
+
+**Text-to-Speech (TTS):** TTS technology is used to convert text into spoken voice output. This could involve various TTS techniques, including concatenative TTS, formant synthesis, or neural TTS, depending on the desired voice quality and naturalness.
+
+**Image Processing:** Image processing techniques may be used to process images of text inputs, such as when users take a photo of a document or a signboard. Optical character recognition (OCR) technology could be used to extract text from the image for further processing.
+
+**Backend Technologies:** Backend technologies such as server-side programming languages (e.g., Python, Node.js), web frameworks (e.g., Flask, Express), and databases (e.g., MySQL, MongoDB) may be used to handle the processing, storage, and retrieval of user inputs and outputs, as well as the integration with other systems.
+
+**APIs and Libraries:** APIs and libraries for NLP, MT, ASR, TTS, and OCR, such as Google Cloud Translation API, Microsoft Translator API, CMU Sphinx, Google Cloud Speech-to-Text API, Google Cloud Text-to-Speech API, and Tesseract OCR, may be used to leverage existing tools and technologies for specific functionalities.
+
+**Development Tools:** Development tools such as integrated development environments (IDEs), version control systems (e.g., Git), project management tools, and collaboration platforms may be used to facilitate the development, testing, and deployment of the chatbot system.
+
+**Deployment Technologies:** Deployment technologies such as cloud platforms (e.g., AWS, Google Cloud, Azure) or on-premises servers may be used to host and deploy the chatbot system, depending on the chosen infrastructure and deployment strategy.
+
+
 ### **Technology Gap compared to other compatitors**
 
 **-** In terms of the technology gap with the current generation, the main difference is the use of AI and machine learning to implement chatbots. 
@@ -171,6 +192,54 @@ Limited discussion on challenges and limitations of unsupervised NMT, such as ha
 
 **7.BotStar:** BotStar is a chatbot development platform that offers NLP-based language processing capabilities for understanding user inputs in multiple languages. It supports voice synthesis for generating voice responses in different languages.
 
+### **Project work flow**
+
+#### **Requirement Analysis:**
+Both Tarrun and Parth work together to understand the project requirements and gather detailed specifications from stakeholders.
+They analyze the language translation, voice synthesis, image processing, and other functional requirements of the chatbot.
+They also consider non-functional requirements such as performance, scalability, and security.
+
+#### **Design and Architecture:**
+
+Tarrun and Parth collaborate to design the architecture of the chatbot system, including the data flow, APIs, databases, and integration points.
+They decide on the technologies, APIs, and libraries to be used for different components of the chatbot system.
+They create a design document, including the system architecture, data models, and flowcharts.
+
+#### **Development:**
+
+Tarrun takes responsibility for the NLP and language translation components, implementing the necessary NLP techniques, machine translation models, and APIs.
+Parth takes responsibility for the speech recognition and text-to-speech components, implementing the ASR and TTS technologies, and integrating them with the chatbot system.
+Tarrun and Parth collaborate to develop the image processing component, implementing OCR techniques to extract text from images, and integrating it with the chatbot system.
+They follow an agile development methodology, with regular sprints, code reviews, and testing to ensure quality and progress.
+
+#### **Testing and Quality Assurance:**
+
+Tarrun and Parth collaborate to conduct extensive testing of the chatbot system, including unit testing, integration testing, and functional testing.
+They also perform performance testing, security testing, and user acceptance testing to ensure that the system meets the required quality standards.
+They identify and fix any bugs or issues discovered during testing and ensure that the chatbot system is reliable and robust.
+
+#### **Deployment and Integration:**
+
+Tarrun and Parth work together to deploy the chatbot system on the chosen infrastructure, such as a cloud platform or on-premises servers.
+They integrate the chatbot system with other required components, such as databases, APIs, and external systems, to ensure smooth functioning and data flow.
+They thoroughly test the integrated system and ensure that it is ready for production use.
+
+#### **Launch and Monitoring:**
+Tarrun and Parth collaborate to launch the chatbot system, making it available to users for input through text, voice, or image inputs.
+They monitor the system for any issues or performance bottlenecks and take proactive measures to resolve them.
+They gather feedback from users and stakeholders, and continuously improve the system based on feedback and usage patterns.
+
+#### **Documentation and Knowledge Sharing:**
+
+Tarrun and Parth document the entire development process, including the architecture, design decisions, implementation details, and testing results.
+They create user manuals, technical documentation, and knowledge base resources to help users understand and use the chatbot system effectively.
+They also conduct knowledge sharing sessions with team members or stakeholders to transfer knowledge and expertise about the chatbot system.
+
+#### **Progress Reporting and Communication:**
+
+Tarrun and Parth regularly update progress on their respective responsibilities and share it with each other and other stakeholders.
+They hold regular meetings to discuss progress, challenges, and next steps in the development process.
+They use project management tools, communication channels, and other means to ensure effective communication and coordination throughout the development process.
 
 ### **Phase Based Work Break Structure:**
 
@@ -243,25 +312,6 @@ Collaborate with Tarrun to gather feedback from stakeholders and continuously im
 ![image](https://user-images.githubusercontent.com/124272210/222787146-6b6c0e74-5c12-48d1-acd1-d0d5dbf69a7f.png)
 
 
-### ** Technology Used**
-
-**Natural Language Processing (NLP):** NLP techniques are used to analyze and process text or voice inputs in different languages, including tasks such as language identification, text segmentation, named entity recognition, part-of-speech tagging, sentiment analysis, and machine translation.
-
-**Machine Translation (MT):** MT technology is used to automatically translate text from one language to another. This could involve rule-based, statistical, or neural machine translation approaches, depending on the requirements and accuracy desired.
-
-**Speech Recognition:** Speech recognition technology is used to convert voice recordings into text, allowing users to provide input through voice recordings. This may involve automatic speech recognition (ASR) techniques that transcribe spoken language into written text.
-
-**Text-to-Speech (TTS):** TTS technology is used to convert text into spoken voice output. This could involve various TTS techniques, including concatenative TTS, formant synthesis, or neural TTS, depending on the desired voice quality and naturalness.
-
-**Image Processing:** Image processing techniques may be used to process images of text inputs, such as when users take a photo of a document or a signboard. Optical character recognition (OCR) technology could be used to extract text from the image for further processing.
-
-**Backend Technologies:** Backend technologies such as server-side programming languages (e.g., Python, Node.js), web frameworks (e.g., Flask, Express), and databases (e.g., MySQL, MongoDB) may be used to handle the processing, storage, and retrieval of user inputs and outputs, as well as the integration with other systems.
-
-**APIs and Libraries:** APIs and libraries for NLP, MT, ASR, TTS, and OCR, such as Google Cloud Translation API, Microsoft Translator API, CMU Sphinx, Google Cloud Speech-to-Text API, Google Cloud Text-to-Speech API, and Tesseract OCR, may be used to leverage existing tools and technologies for specific functionalities.
-
-**Development Tools:** Development tools such as integrated development environments (IDEs), version control systems (e.g., Git), project management tools, and collaboration platforms may be used to facilitate the development, testing, and deployment of the chatbot system.
-
-**Deployment Technologies:** Deployment technologies such as cloud platforms (e.g., AWS, Google Cloud, Azure) or on-premises servers may be used to host and deploy the chatbot system, depending on the chosen infrastructure and deployment strategy.
 
 # **TARP REVIEW - 2**
 
