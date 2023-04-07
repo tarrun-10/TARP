@@ -23,7 +23,7 @@ The chatbot will be designed to support multiple languages, and will use machine
 
 Our chatbot will be intuitive and user-friendly, and will work across multiple platforms including web, mobile and desktop applications. It will provide a simple and easy-to-use interface that users can access from anywhere in the world.
 
-We envision that our NLP induced chatbot system will have a significant impact on businesses, governments, and individuals around the world. It will enable businesses to expand their customer base by providing support in multiple languages, and will help governments to communicate effectively with people who speak different languages.
+The NLP induced chatbot system will have a significant impact on businesses, governments, and individuals around the world. It will enable businesses to expand their customer base by providing support in multiple languages, and will help governments to communicate effectively with people who speak different languages.
 
 Ultimately, our chatbot system will break down language barriers and bring people together, creating a more connected and inclusive world.
 
