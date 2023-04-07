@@ -246,7 +246,7 @@ We use project management tools, communication channels, and other means to ensu
 We are following incremental model as it is best suited for project. It reduces the room for error and consumes less time.
 Our project follows as mentioned below.
  
-![image](https://user-images.githubusercontent.com/124272210/222786814-3211e2ca-5cce-4ff7-a25a-fad54fcd49f5.png)
+![image](https://user-images.githubusercontent.com/124272210/230575453-e10b3d04-3265-453e-ba8b-09d9acb093e2.png)
 
 
 ### **Responsibility Based Work Break-down Structure:**
