@@ -353,6 +353,9 @@ The technical requirements of the chatbot system were also challenging. Parth an
 
 Assembling a team with the necessary expertise was a significant challenge. Parth and Tarrun knew that they would need to hire top talent in NLP, machine learning, and UI/UX.
 
+![image](https://user-images.githubusercontent.com/124272210/230560398-77d6bb0e-fdc6-4df6-b53e-6211283f6841.png)
+
+
 ### **Methodology and Requirements**
 
 To implement a NLP induced chatbot system for cross-lingual communication, the following technical requirements and methodology can be followed:
