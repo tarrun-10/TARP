@@ -23,7 +23,7 @@ The chatbot will be designed to support multiple languages, and will use machine
 
 Our chatbot will be intuitive and user-friendly, and will work across multiple platforms including web, mobile and desktop applications. It will provide a simple and easy-to-use interface that users can access from anywhere in the world.
 
-The NLP induced chatbot system will have a significant impact on businesses, governments, and individuals around the world. It will enable businesses to expand their customer base by providing support in multiple languages, and will help governments to communicate effectively with people who speak different languages.
+We envision that our NLP induced chatbot system will have a significant impact on businesses, governments, and individuals around the world. It will enable businesses to expand their customer base by providing support in multiple languages, and will help governments to communicate effectively with people who speak different languages.
 
 Ultimately, our chatbot system will break down language barriers and bring people together, creating a more connected and inclusive world.
 
@@ -41,14 +41,15 @@ Ultimately, our chatbot system will break down language barriers and bring peopl
 
 ### **Motivation for Topic Selection:**
 
-The motivation for an online booking system for porters (also known as porters or baggage carriers) could be to make the process of arranging for a porter more convenient and efficient for both the customer and the porter. With an online system, customers can easily find and book a porter in advance, and porters can also easily manage and keep track of their bookings. Additionally, an online system can also
-provide a platform for customers to rate and review porters based on their experiences,
-which can help improve the quality of service provided.
+The selection of NLP Induced Chatbot System for Cross Lingual Communication as a topic was motivated by several factors. One of the most significant factors is the increasing need for cross-lingual communication in today's globalized world. The ability to communicate effectively across different languages is crucial for individuals, businesses, and governments to succeed in a diverse and interconnected world.
 
-Another motivation for an online booking system is to reduce the chances of overbooking or no-shows, which can be problems with traditional manual booking methods. An online system can automatically keep track of availability and bookings, which can help reduce these issues.
+**-** Increasing need for cross-lingual communication in today's globalized world.
 
-Lastly, an online booking system can also be a way to provide financial stability to porters, which may not have regular employment or income.
-Overall, an online booking system for porters can provide a better and more efficient service for customers, while also helping to improve the livelihoods of porters.
+**-** Recent advancements in NLP technology and machine learning have made it possible to develop chatbots that can interpret and understand multiple languages, making cross-lingual communication more accessible and efficient.
+
+**-** The potential of chatbot technology to transform the way we communicate and conduct business globally, providing a cost-effective and scalable solution to language barriers.
+
+**-** Potential social impact of chatbot technology in promoting inclusivity, social cohesion, and overcoming discrimination and prejudice based on language barriers.
 
 ### **Literature Review**
 
