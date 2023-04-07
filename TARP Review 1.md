@@ -163,13 +163,13 @@ Limited discussion on challenges and limitations of unsupervised NMT, such as ha
 
 **3. Amazon Polly:** Amazon Polly is a cloud-based text-to-speech (TTS) service that provides voice synthesis capabilities in multiple languages. It can convert text into natural-sounding speech with different voice styles and accents.
 
-**IBM Watson Language Translator:** IBM Watson Language Translator is a language translation service that provides text translation capabilities for multiple languages. It also supports voice synthesis for translated text.
+**4.IBM Watson Language Translator:** IBM Watson Language Translator is a language translation service that provides text translation capabilities for multiple languages. It also supports voice synthesis for translated text.
 
-**DeepL:** DeepL is an AI-powered language translation service that offers translation capabilities for text and provides voice synthesis for translated text in multiple languages.
+**5.DeepL:** DeepL is an AI-powered language translation service that offers translation capabilities for text and provides voice synthesis for translated text in multiple languages.
 
-**Dialogflow:** Dialogflow is a conversational AI platform by Google that allows building chatbots and virtual assistants. It provides NLP capabilities for understanding user inputs in multiple languages and supports text-to-speech (TTS) for generating voice responses.
+**6.Dialogflow:** Dialogflow is a conversational AI platform by Google that allows building chatbots and virtual assistants. It provides NLP capabilities for understanding user inputs in multiple languages and supports text-to-speech (TTS) for generating voice responses.
 
-**BotStar:** BotStar is a chatbot development platform that offers NLP-based language processing capabilities for understanding user inputs in multiple languages. It supports voice synthesis for generating voice responses in different languages.
+**7.BotStar:** BotStar is a chatbot development platform that offers NLP-based language processing capabilities for understanding user inputs in multiple languages. It supports voice synthesis for generating voice responses in different languages.
 
 
 ### **Phase Based Work Break Structure:**
@@ -224,13 +224,17 @@ Implement APIs and services for language translation using NLP techniques, such 
 Implement APIs and services for voice recognition to convert voice inputs into text
 Implement APIs and services for voice synthesis to convert translated text into spoken voice
 Implement error handling, logging, and monitoring for the back-end services
+
 #### **Deployment and Deployment**
+
 Prepare the chatbot for deployment to production environment
 Deploy the chatbot to a suitable hosting environment, such as a cloud server or a containerized environment
 Configure and optimize the chatbot for performance, security, and scalability
 Set up monitoring and logging for production environment
 Prepare documentation for deployment, maintenance, and troubleshooting
+
 #### **Maintenance and Support**
+
 Provide ongoing maintenance and support for the chatbot, including bug fixes, performance optimizations, and updates to language translation models or voice synthesis libraries
 Monitor system performance and troubleshoot production issues
 Provide support to end-users and address their issues or concerns
@@ -239,35 +243,25 @@ Collaborate with Tarrun to gather feedback from stakeholders and continuously im
 ![image](https://user-images.githubusercontent.com/124272210/222787146-6b6c0e74-5c12-48d1-acd1-d0d5dbf69a7f.png)
 
 
-### **Advanced Features**
+### ** Technology Used**
 
-Here are some more advanced features that could be implemented in a futuristic online porter booking system:
+**Natural Language Processing (NLP):** NLP techniques are used to analyze and process text or voice inputs in different languages, including tasks such as language identification, text segmentation, named entity recognition, part-of-speech tagging, sentiment analysis, and machine translation.
 
-**Augmented Reality (AR) Integration:** 
-AR technology can be integrated to help customers visualize how their items will fit into the porter's load and how much space they will occupy. This can help customers make more informed decisions when booking a porter.
+**Machine Translation (MT):** MT technology is used to automatically translate text from one language to another. This could involve rule-based, statistical, or neural machine translation approaches, depending on the requirements and accuracy desired.
 
-**Voice Recognition:** 
-Voice recognition technology can be implemented to allow customers to book a porter or make inquiries using their voice, without having to type.
+**Speech Recognition:** Speech recognition technology is used to convert voice recordings into text, allowing users to provide input through voice recordings. This may involve automatic speech recognition (ASR) techniques that transcribe spoken language into written text.
 
-**Blockchain-based Payment System:** 
-A blockchain-based payment system could be implemented to make payments more secure, faster, and cheaper than traditional payment gateways.
+**Text-to-Speech (TTS):** TTS technology is used to convert text into spoken voice output. This could involve various TTS techniques, including concatenative TTS, formant synthesis, or neural TTS, depending on the desired voice quality and naturalness.
 
-**Predictive Analytics:** 
-Predictive analytics can be used to analyze data on customer behavior, porter availability, and other factors to provide insights that can help optimize the booking process and improve the customer experience.
+**Image Processing:** Image processing techniques may be used to process images of text inputs, such as when users take a photo of a document or a signboard. Optical character recognition (OCR) technology could be used to extract text from the image for further processing.
 
-**Smart Contracts:** 
-Smart contracts can be implemented to automate certain parts of the booking process, such as payments and contract execution, reducing the need for human intervention.
+**Backend Technologies:** Backend technologies such as server-side programming languages (e.g., Python, Node.js), web frameworks (e.g., Flask, Express), and databases (e.g., MySQL, MongoDB) may be used to handle the processing, storage, and retrieval of user inputs and outputs, as well as the integration with other systems.
 
-**Intelligent Routing:** 
-AI and ML algorithms can be used to optimize the routing of porters based on various factors like traffic, weather, and customer preferences, ensuring faster and more efficient delivery of goods.
+**APIs and Libraries:** APIs and libraries for NLP, MT, ASR, TTS, and OCR, such as Google Cloud Translation API, Microsoft Translator API, CMU Sphinx, Google Cloud Speech-to-Text API, Google Cloud Text-to-Speech API, and Tesseract OCR, may be used to leverage existing tools and technologies for specific functionalities.
 
-**Social Media Integration:** 
-Integration with social media platforms like Facebook and Instagram can be implemented to allow customers to book a porter directly from these platforms.
+**Development Tools:** Development tools such as integrated development environments (IDEs), version control systems (e.g., Git), project management tools, and collaboration platforms may be used to facilitate the development, testing, and deployment of the chatbot system.
 
-**Internet of Things (IoT) Integration:** 
-IoT devices like smart sensors and beacons can be used to track the location of porters and goods in real-time, providing more accurate delivery estimates to customers.
-
-These advanced features can significantly enhance the functionality and user experience of a futuristic online porter booking system, making it more efficient, secure, and customer-centric.
+**Deployment Technologies:** Deployment technologies such as cloud platforms (e.g., AWS, Google Cloud, Azure) or on-premises servers may be used to host and deploy the chatbot system, depending on the chosen infrastructure and deployment strategy.
 
 # **TARP REVIEW - 2**
 
