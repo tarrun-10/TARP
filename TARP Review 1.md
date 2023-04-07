@@ -39,6 +39,8 @@ Ultimately, our chatbot system will break down language barriers and bring peopl
 
 4. Overall, language barriers are a significant problem that affects communication across different industries and sectors. This challenge highlights the need for innovative solutions that can facilitate cross-lingual communication more efficiently, cost-effectively, and with increased accuracy. Our NLP Induced Chatbot System for Cross Lingual Communication aims to address these challenges by providing a cutting-edge, user-friendly, and cost-effective solution to facilitate communication between individuals who speak different languages.
 
+5. Customer dissatisfaction: In customer service interactions, language barriers and inability to read can lead to dissatisfaction among customers who may not be able to effectively communicate their needs or understand information provided by the service providers. This can impact customer satisfaction, loyalty, and the reputation of businesses
+
 ### **Motivation for Topic Selection:**
 
 The selection of NLP Induced Chatbot System for Cross Lingual Communication as a topic was motivated by several factors. One of the most significant factors is the increasing need for cross-lingual communication in today's globalized world. The ability to communicate effectively across different languages is crucial for individuals, businesses, and governments to succeed in a diverse and interconnected world.
@@ -53,187 +55,89 @@ The selection of NLP Induced Chatbot System for Cross Lingual Communication as a
 
 ### **Literature Review**
 
-1. **Title: An internet-based logistics management system for enterprise chains**
+#### **1. Paper Title: "Multilingual Natural Language Processing: A Survey"**
+**Introduction:** This literature review provides an overview of multilingual natural language processing (NLP) techniques, which involve processing text in multiple     languages. It discusses various approaches such as machine translation, cross-lingual embeddings, and multilingual representations, along with their applications in    tasks such as sentiment analysis, named entity recognition, and machine translation.
+**Major Drawbacks:**
 
-DOI: https://doi.org/10.1016/j.jfoodeng.2004.01.040
+Limited coverage of recent advancements in multilingual NLP, as the field evolves rapidly.
+Limited discussion on challenges and limitations of multilingual NLP, such as handling code-switching or dialects in multilingual text.
+Potential bias towards major languages, with limited coverage of NLP in low-resource or underrepresented languages.
 
-Authors: N. Prindezis et al.
+#### **2. Paper Title: "Cross-lingual Text Classification: A Comprehensive Survey"**
 
-Abstract:
+**Introduction:** This literature review focuses on cross-lingual text classification, which involves training a text classification model in one language and applying it to another language. It discusses various approaches such as transfer learning, domain adaptation, and cross-lingual embeddings, and reviews their strengths and weaknesses in cross-lingual text classification tasks.
+**Major Drawbacks:**
 
-This paper presents an Internet-Based Logistics Management System to coordinate and disseminate tasks and related information for solving the heterogeneous vehicle routing problem using appropriate metaheuristic techniques, for use in enterprise chain networks. Its architecture involves a JAVA Web applet equipped with interactive communication capabilities between peripheral software tools. The system was developed in distributed software fashion technology for all computer platforms utilizing a Web browser, focusing on the detailed road network of Athens and the needs of the Athens Central Food Market enterprises.
+Limited focus on other cross-lingual NLP tasks beyond text classification, such as named entity recognition or sentiment analysis.
+Limited coverage of recent advancements in cross-lingual text classification, as the field continues to evolve rapidly.
+Limited discussion on challenges and limitations of cross-lingual text classification, such as handling language-specific features or differences in text representations.
 
+#### **3. Paper Title: "Language Modeling for Code-Switching: A Survey"**
 
-2. **Title: A Collaborative Supply Chain Management System for a Maritime Port Logistics Chain**
+**Introduction:** This literature review focuses on language modeling for code-switching, which involves modeling text that contains a mix of two or more languages. It discusses various approaches such as rule-based, statistical, and deep learning-based methods, and reviews their applications in code-switching tasks, challenges, and limitations.
+**Major Drawbacks:**
 
-DOI: https://www.scielo.org.mx/scielo.php?pid=S1665-64232014000300010&script=sci_arttext&tlng=en 
+Limited focus on other code-switching related tasks, such as sentiment analysis, named entity recognition, or machine translation.
+Limited coverage of recent advancements in language modeling for code-switching, as the field is relatively new and rapidly evolving.
+Potential bias towards specific languages or code-switching scenarios, with limited coverage of other languages or regions.
 
-Authors: LM Ascencio et al.
+#### ** 4.Paper Title: "Survey on Neural Network Approaches for Natural Language Processing"**
+**Introduction**: This literature review provides an overview of various neural network approaches used in natural language processing (NLP), including recurrent neural networks (RNNs), convolutional neural networks (CNNs), and transformer models. It discusses their applications in tasks such as machine translation, sentiment analysis, and text generation.
+**Major Drawbacks:**
 
-Abstract:
+Limited focus on recent advancements in NLP, as the field evolves rapidly.
+Lack of in-depth analysis and comparison of different neural network approaches.
+Limited discussion on challenges and limitations of neural network-based NLP models.
 
-In this article we propose a collaborative logistics framework for a Port Logistics Chain (PLC) based on the principles of Supply Chain Management (SCM) that rely on stakeholders integration and collaboration, providing a reference model for the inland coordination of the PLC. A comprehensive literature review was conducted, analyzing several cases in which SCM practices have been implemented as well as studies related to port development, governance, coordination, and best practices associated. This background information was used to identify current gaps in logistics management practices and potential scopes of intervention within the PLC to suggest a redesign process and configure new structures under a collaborative scheme, following the guidelines of SCM.
+#### **5. Paper Title: "A Survey on Machine Translation: Current Techniques and Future Perspectives"**
+**Introduction:** This literature review provides a comprehensive survey of machine translation techniques, including rule-based, statistical, and neural machine translation (NMT) approaches. It discusses the strengths and weaknesses of each approach and explores future perspectives in machine translation research.
+**Major Drawbacks:**
 
-3. **Title: Planning enterprise resources by use of a reengineering approach to build a global logistics management system**
+Potential bias towards older techniques, as the field of machine translation has evolved significantly in recent years with the rise of NMT.
+Limited focus on domain-specific machine translation or low-resource language pairs.
+Limited discussion on challenges and limitations of machine translation, such as handling rare or out-of-vocabulary words.
 
-DOI: https://doi.org/10.1108/02635570110410672 
+#### **6. Paper Title: "Sentiment Analysis: A Survey of Techniques and Applications"**
+Introduction: This literature review provides an overview of sentiment analysis techniques, which involve NLP methods for identifying sentiment or emotion in text data. It discusses various approaches such as lexicon-based, machine learning-based, and deep learning-based methods, along with their applications in sentiment analysis tasks.
+Major Drawbacks:
 
-Authors: Shi‐Ming Huang et al.
+Limited coverage of emerging techniques in sentiment analysis, such as transfer learning or domain adaptation.
+Limited discussion on challenges and limitations of sentiment analysis, such as handling sarcasm or irony in text.
+Potential bias towards English-centric sentiment analysis, with limited coverage of sentiment analysis in other languages.
 
-Abstract:
+#### **7. Paper Title: "Text Generation Techniques: A Comprehensive Survey"**
+Introduction: This literature review provides a comprehensive survey of text generation techniques, including rule-based, statistical, and deep learning-based approaches. It discusses their applications in tasks such as text summarization, machine translation, and dialogue generation, and compares their strengths and weaknesses.
+**Major Drawbacks:**
 
-Theoretically and ideally, enterprise resource planning (ERP) seeks to streamline and integrate operation processes and information flow within a company. Practically, ERP system implementation involves a much broader scope and in‐depth consideration within an organization. Concurrently, in response to this need for resource optimization, the impact of globalization has caused the emergence of a new business operation format, global logistics management (GLM). This pertains to the overall management system of a corporation’s undertaking of worldwide market distribution, product design, customer satisfaction, production, procurement, logistics, suppliers and inventory. Suggests building an ERP as the backbone for implementation of a GLM system, while minimizing the impact of changes by use of information system reengineering technology (ISRT). Proposes a novel development framework that applies ISRT and ERP to developing a GLM system to economize on the system implementation cost and minimize the impact of changes within the corporation as a whole.
+Limited focus on recent advancements in text generation, such as transformer-based models or reinforcement learning approaches.
+Limited discussion on challenges and limitations of text generation, such as controlling for quality, coherence, and diversity in generated text.
+Potential bias towards specific text generation tasks, with limited coverage of text generation in other domains or applications.
 
+#### **8. Paper Title: "Challenges and Limitations of NLP for Low-Resource Languages"**
+Introduction: This literature review focuses on the challenges and limitations of NLP techniques for low-resource languages, which have limited data or resources for building NLP models. It discusses issues such as data scarcity, lack of annotated data, and resource constraints, and reviews existing approaches to address these challenges.
+**Major Drawbacks:**
 
-4. **Title: Research and design of logistics management system based on internet of things**
+Limited coverage of recent advancements in NLP for low-resource languages, as the field continues to evolve rapidly.
+Limited focus on specific low-resource languages or regions, with potential bias towards certain languages.
+Limited discussion on potential ethical considerations, such as potential bias or fairness issues in NLP models for low-resource languages.
 
-DOI: https://doi.org/10.1109/AIMSEC.2011.6011405 
+#### **9.Paper Title: "Neural Machine Translation: A Review"**
 
-Authors: Changhui Yu
+Introduction: This literature review provides an overview of neural machine translation (NMT), which is a popular approach in NLP for automatic translation between languages using neural networks. It discusses various NMT architectures, such as encoder-decoder models, attention mechanisms, and transformer models, along with their strengths and limitations in terms of translation quality, training data requirements, and computational complexity.
+**Major Drawbacks:**
 
-Abstract:
+Limited coverage of other traditional machine translation approaches, such as statistical or rule-based methods, which may still be relevant in certain scenarios.
+Potential bias towards major languages, with limited coverage of NMT in low-resource or underrepresented languages.
+Limited discussion on challenges and limitations of NMT, such as handling rare or out-of-vocabulary words, domain adaptation, or translating idiomatic expressions.
 
-Through the study of the Internet of Things technology, the idea combining EPC Internet of Things with WSN is proposed which demonstrates the integration feasibility of the RFID and WSN technology. In order to improve the efficiency of logistics enterprises all aspects in the transport process should be monitored which need to apply the Internet of Things technology into the logistics management system. The logistics information is obtained by radio frequency identification, sensors, etc., is transferred by network which combines the Internet, mobile communication network and other network information transmission, and is analyzed and processed through the logistics management system. In this way functions such as user management, vehicle management, site management, order management, distribution management and other functions are implemented effectively which can facilitate the remote operation and monitoring on the user information, vehicle information, order information inorder to intelligent decision-making and control.
+#### **10. Paper Title: "Unsupervised Neural Machine Translation: A Survey"**
 
-5. **Title: A web‐based logistics management system for agile supply demand network design**
+**Introduction:** This literature review focuses on unsupervised neural machine translation, which aims to train translation models without parallel training data, making it suitable for low-resource language pairs. It discusses various approaches, such as unsupervised domain adaptation, self-supervised learning, and multilingual NMT, along with their strengths and limitations in terms of translation quality, data requirements, and model robustness.
+**Major Drawbacks:**
 
-DOI: https://www.emerald.com/insight/content/doi/10.1108/17410380610707384/full/html?queryID=51%2F5410742
-
-Authors: Petri Helo et al.
-
-Abstract:
-
-Purpose
-Online, on‐demand and real‐time availability of information to all members of a manufacturing system enables them to be agile and in the best position to react quickly, efficiently, synchronously, and collectively to the changing market. This paper proposes an integrated web‐based logistics management system for agile supply demand network design (ASDN).
-
-Design/methodology/approach
-The paper presents a software system, which is distributed as open source. A case study of ABB Company in Finland has been undertaken and this demonstrates the validity of ASDN in designing and managing supply demand networks.
-
-Findings
-Current software applications, such as ERP, WMS and EAI do not support a higher‐level decision making. There are several performance measures, which are directly connected to structure of the network.
-
-Practical implications
-The presented software supports modeling, analyzing and limited optimizing of supply demand networks. Also discussed is the network level logistics analysis that is behind the modeling tool.
-
-Originality/value
-The paper introduces the ASDN software, which is freely available for research and commercial uses. The case example shows how this type of network architecture‐related decisions can be analyzed.
-
-6. **Title: Chatbots in Logistics: A Field Experiment on Intelligent Freight Dispatching**
-
-DOI: https://dx.doi.org/10.2139/ssrn.4296708 
-
-Authors: Wanfeng Yan et al.
-
-Abstract:
-
-Fueled by the widespread adoption of algorithms and artificial intelligence (AI), the use of chatbots has become increasingly popular in various business contexts. In this paper, they study how to effectively and appropriately use chatbots in logistics, particularly in dispatching freights automatically. Specifically, this paper seeks to understand the effects of two voice chatbot design features (i.e., identity disclosure and anthropomorphism) on the operational performance of freight dispatching. In collaboration with a large truck-sharing platform, they conducted a field experiment that randomly assigned over 10,000 truck drivers to receive outbound calls from the voice chatbot dispatcher of our focal platform. Our empirical results suggest that chatbot identity disclosure at the beginning of the conversation significantly reduces the operational performance in terms of response rate. However, humanizing the voice chatbot by adding our proposed anthropomorphism features (i.e., interjections and filler words) significantly improves response rate, conversation duration, and order acceptance intention. Moreover, interestingly, humanizing the voice chatbot along with its identity disclosure can still improve operational outcomes, and its magnitude is similar to the improvement brought about by humanizing the chatbot without identity disclosure. This finding indicates that improving anthropomorphism may potentially mitigate the negative effects of chatbot identity disclosure. Finally, they propose one plausible explanation related to the enhanced trust between humans and algorithms for the performance improvement and empirically show that drivers are more likely to disclose information to chatbot dispatchers with anthropomorphism features. Our proposed anthropomorphism improvement solutions are now being implemented and used by our collaborator platform.
-
-7. **Title: Integration of Chatbots in the Procurement Stage of a Supply Chain**
-
-DOI: https://doi.org/10.1109/CSITSS57437.2022.10026367 
-
-Authors: Ramaa A et al.
-
-Abstract: 
-
-Procurement, one of the core supply chain operations, involves acquiring goods and services in the interest of carrying out business activities, which when effectively planned can lead to numerous benefits which include streamlining the process, selecting and identifying the right suppliers as well as reducing the cost amongst others. Therefore, by shifting from a transactional to strategy-oriented procurement process, Artificial Intelligence (AI) can aid in adding value to the procurement process. Chatbots powered by AI could be integrated with current Enterprise Resource Planning (ERP) systems to automate the process. The focus of this study is with respect to medium-sized enterprises, the goal being to maximize advantages. In order to understand recent developments, gaps as well as the various tools and techniques currently in use, a literature review of salient work in the field of procurement was first conducted. This was followed by the formulation of the null and alternative hypotheses in order to study the relationship between the use of chatbots and the procurement stage in the supply chain. The responses were then used to generate a variety of relationships, which were then examined using Tableau and factor analysis, respectively, revealing the positive impact digitalization had on reducing supply chain costs, inventory and sales. Finally, a chatbot with features including supplier preference order, by implementing Analytic Hierarchy Process (AHP), answers to frequently asked queries, and key procurement metrics was constructed. The responses indicated that most companies have not incorporated Robotic Process Automation (RPA) in their supply chain process and believe that the supplier relation domain has the highest chance of being most efficient.
-
-8. **Title: AI-based chatbots in customer service and their effects on user compliance**
-
-DOI: https://doi.org/10.1007/s12525-020-00414-7
-
-Authors: Martin Adam et al.
-
-Abstract:
-
-Communicating with customers through live chat interfaces has become an increasingly popular means to provide real-time customer service in many e-commerce settings. Today, human chat service agents are frequently replaced by conversational software agents or chatbots, which are systems designed to communicate with human users by means of natural language often based on artificial intelligence (AI). Though cost- and time-saving opportunities triggered a widespread implementation of AI-based chatbots, they still frequently fail to meet customer expectations, potentially resulting in users being less inclined to comply with requests made by the chatbot. Drawing on social response and commitment-consistency theory, we empirically examine through a randomized online experiment how verbal anthropomorphic design cues and the foot-in-the-door technique affect user request compliance. Our results demonstrate that both anthropomorphism as well as the need to stay consistent significantly increase the likelihood that users comply with a chatbot’s request for service feedback. Moreover, the results show that social presence mediates the effect of anthropomorphic design cues on user compliance.
-
-
-
-### **Technical Requirements and Technologies Implemented **
-
-1)	**Frontend Framework:**
-
-•	Angular
-
-•	React
-
-•	Vue.js
-
-•	HTML, CSS, JS
-
-                
-These are all front-end web development frameworks that could be used to create the user interface of the porter booking system. React is a JavaScript library for building user interfaces, Angular is a TypeScript-based web application framework, and Vue.js is a progressive JavaScript framework for building user interfaces.
-
-2)	**Backend Framework:**
-
-•	Node.js
-
-•	Ruby
-
-•	Python
-
-These are all server-side web development technologies that could be used to create the back-end logic of the porter booking system. Node.js is a JavaScript runtime built on the Chrome V8 engine, Ruby on Rails is a web application framework written in Ruby, and Python Flask is a micro web framework written in Python.
-
-3)	**Database Management System:**
-•	MySQL
-
-•	MangoDB
-
-These are all relational or NoSQL database management systems that could be used to store and manage data related to the porter booking system. MySQL is an open-source relational database management system, MongoDB is a NoSQL document-oriented database, and PostgreSQL is a powerful open-source object-relational database management system.
-
-4)	**Payment Gateway Integration:**
-
-•	Paypal
-
-•	Braintree
-
-These are all payment gateway integration services that could be used to enable secure online payment processing in the porter booking system. Stripe is a software platform for online payment processing, PayPal is a global online payment system, and Braintree is a full-stack payments platform that simplifies the online payment process.
-
-5)	**Real-time tracking and mapping API’s:**
-
-•	Google Maps API
-
-•	Mapbox API
-
-These are all real-time tracking and mapping APIs that could be used to enable real-time tracking of the porter's location and the customer's location in the porter booking system. Google Maps API is a web mapping service, Mapbox API is a location data platform, and Leaflet is an open-source JavaScript library for mobile-friendly interactive maps.
-
-6)	**Cloud hosting and Development:**
-
-•	 Google Cloud
-
-•	Microsoft Azure
-
-These are all cloud hosting and deployment technologies that could be used to ensure high availability, scalability, and efficient deployment of the porter booking system. AWS is a cloud computing platform provided by Amazon, Microsoft Azure is a cloud computing service provided by Microsoft, and Google Cloud Platform is a suite of cloud computing services provided by Google.
-
-7)	**Communication and interaction:**
-
-•	Obsidian
-
-•	GitHub
-These are platforms where co-works can connect share their ideas in an organised manner, without worrying about losing data. Tools such as Obsidian helps us keep track of all the conversations and ideas with the help mind map feature, which interlinks the conversations from the begin to the end. For sharing the code and related components GitHub is very efficient, it makes pushing a huge amount of files inside and outside easy, while keeping track of the changes.
-
-8) **Real-time GPS tracking:** 
-To implement real-time GPS tracking, the app can use software such as Google Maps API, Mapbox SDK, or HERE Maps API.
-
-9) **Artificial intelligence (AI) algorithms:** To implement AI algorithms, the app can use software such as TensorFlow, Keras, or PyTorch for machine learning and deep learning models.
-
-10) **Augmented reality (AR) navigation:** To implement AR navigation, the app can use software such as ARKit for iOS devices, ARCore for Android devices, or Vuforia for cross-platform development.
-
-11) **In-app messaging:** 
-To implement in-app messaging, the app can use software such as Firebase Cloud Messaging (FCM) or Pusher for real-time messaging.
-
-12)**Voice recognition:** 
-To implement voice recognition, the app can use software such as Google Cloud Speech-to-Text API, Amazon Transcribe API, or Microsoft Azure Speech Services API.
-
-13)**Integration with third-party services:** 
-To integrate with third-party services, the app can use software such as RESTful APIs or GraphQL APIs to connect with external services such as weather APIs, traffic APIs, or flight APIs.
-
-14)**Payment gateway integration:** 
-To implement payment gateway integration, the app can use software such as Stripe, PayPal, or Braintree for secure payment processing.
-
-15)**Multi-language support:** 
-To implement multi-language support, the app can use software such as the Android Localization Framework or the iOS Internationalization and Localization Guide to support multiple languages and regions. The app can also use machine translation services such as Google Cloud Translation API or Microsoft Azure Translator API to provide automatic translation.
+Limited coverage of recent advancements in unsupervised NMT, as the field is still rapidly evolving with ongoing research.
+Limited focus on other unsupervised machine translation techniques beyond neural approaches, such as phrase-based or pivot-based methods.
+Limited discussion on challenges and limitations of unsupervised NMT, such as handling language-specific syntactic or semantic differences, or mitigating the risk of generating inaccurate translations without parallel data for supervision.
 
 ### **Technology Gap compared to other compatitors**
 
@@ -249,15 +153,23 @@ To implement multi-language support, the app can use software such as the Androi
 
 5. **Multimodal Communication:** Most existing chatbot systems only support text-based communication, but for cross-lingual communication, it may be necessary to support voice and video communication.
 
-Currently existing platforms:
+6. **Translated Speech:** The most feature we are bring in is the ability of the chat bot to read out the message in the user understandable language. 
 
-1. **Google Translate:** Google Translate is a popular platform for cross-lingual communication, but it relies on statistical machine translation and does not offer a chatbot interface for real-time communication.
+### **Currently existing platforms:**
 
-2. **Microsoft Translator:** Microsoft Translator is another popular platform for cross-lingual communication, but it also relies on statistical machine translation and lacks a chatbot interface for real-time communication.
+**1. Google Translate:** Google Translate is a widely used language translation service that offers translation capabilities for text, images, and voice inputs. It supports a wide range of languages and provides voice synthesis for translated text in multiple languages.
 
-3. **DeepL:** DeepL is a newer platform that offers a chatbot interface for real-time communication, but it only supports a limited number of languages and does not integrate well with existing communication channels.
+**2. Microsoft Translator:** Microsoft Translator is another popular language translation service that offers translation for text, images, and voice inputs. It supports various languages and provides voice synthesis for translated text.
 
-4. **Amazon Translate:** Amazon Translate is an NLP-based platform that supports multiple languages, but it lacks a chatbot interface for real-time communication and may require significant customization to integrate with existing communication channels.
+**3. Amazon Polly:** Amazon Polly is a cloud-based text-to-speech (TTS) service that provides voice synthesis capabilities in multiple languages. It can convert text into natural-sounding speech with different voice styles and accents.
+
+**IBM Watson Language Translator:** IBM Watson Language Translator is a language translation service that provides text translation capabilities for multiple languages. It also supports voice synthesis for translated text.
+
+**DeepL:** DeepL is an AI-powered language translation service that offers translation capabilities for text and provides voice synthesis for translated text in multiple languages.
+
+**Dialogflow:** Dialogflow is a conversational AI platform by Google that allows building chatbots and virtual assistants. It provides NLP capabilities for understanding user inputs in multiple languages and supports text-to-speech (TTS) for generating voice responses.
+
+**BotStar:** BotStar is a chatbot development platform that offers NLP-based language processing capabilities for understanding user inputs in multiple languages. It supports voice synthesis for generating voice responses in different languages.
 
 
 ### **Phase Based Work Break Structure:**
@@ -270,27 +182,59 @@ Our project follows as mentioned below.
 
 ### **Responsibility Based Work Break-down Structure:**
 
-We are a team of two, so our project was split into 2 parts. 
-The First part which is done by Tarrun consists of:
+### **Tarrun:**
 
-•	Frontend 
+#### **Project Management**
 
-•	Cloud hosting and Development
+Define project scope, objectives, and timeline
+Coordinate team members and assign tasks
+Monitor project progress and ensure adherence to timelines
+Communicate with stakeholders and manage project risks
 
-•	API’S
+#### **Research and Requirements Gathering**
 
-•	Management of the work flow
+Conduct research on NLP-based chatbot technologies, libraries, and APIs
+Gather requirements from stakeholders, including text translation, voice recognition, and voice synthesis capabilities
+Document and finalize the project requirements
 
+#### **Design and Architecture**
+Design the overall system architecture, including input processing, language translation, voice recognition, and voice synthesis components
+Design data models, algorithms, and APIs for each component
+Define integration points and communication protocols between components
+Collaborate with Parth on user interface design and provide input on integrating front-end and back-end components
 
-The Second part which is done by Parth consists of 
-•	Backend or server side
+#### **Front-end Development**
 
-•	Database Management 
+Develop the user interface for the chatbot, including input options for text, image, and voice inputs
+Implement input processing logic to handle different input types, such as text extraction from images or voice-to-text conversion
+Implement user prompts and responses for language selection, input confirmation, and error handling
+Collaborate with Parth on integrating front-end and back-end components and resolving any interface-related issues
 
-•	Payment Gateway
+#### **Testing and Quality Assurance**
 
-**External Help**
-We will be hiring interns, project managers, testers, ML and AI developers to implement the remaining components. For the investment we are approching investors, VC's and incubators.
+Develop and execute test cases to validate the functionality and performance of the chatbot
+Conduct integration testing to ensure seamless communication between front-end and back-end components
+Perform user acceptance testing to gather feedback from stakeholders
+Collaborate with Parth on identifying and fixing defects, performing code reviews, and ensuring code quality and adherence to coding standards
+
+### **Parth:**
+
+#### **Back-end Development**
+Implement APIs and services for language translation using NLP techniques, such as neural machine translation or rule-based translation
+Implement APIs and services for voice recognition to convert voice inputs into text
+Implement APIs and services for voice synthesis to convert translated text into spoken voice
+Implement error handling, logging, and monitoring for the back-end services
+#### **Deployment and Deployment**
+Prepare the chatbot for deployment to production environment
+Deploy the chatbot to a suitable hosting environment, such as a cloud server or a containerized environment
+Configure and optimize the chatbot for performance, security, and scalability
+Set up monitoring and logging for production environment
+Prepare documentation for deployment, maintenance, and troubleshooting
+#### **Maintenance and Support**
+Provide ongoing maintenance and support for the chatbot, including bug fixes, performance optimizations, and updates to language translation models or voice synthesis libraries
+Monitor system performance and troubleshoot production issues
+Provide support to end-users and address their issues or concerns
+Collaborate with Tarrun to gather feedback from stakeholders and continuously improve the chatbot's functionality and user experience
  
 ![image](https://user-images.githubusercontent.com/124272210/222787146-6b6c0e74-5c12-48d1-acd1-d0d5dbf69a7f.png)
 
