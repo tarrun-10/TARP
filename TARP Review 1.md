@@ -195,51 +195,51 @@ Limited discussion on challenges and limitations of unsupervised NMT, such as ha
 ### **Project work flow**
 
 #### **Requirement Analysis:**
-Both Tarrun and Parth work together to understand the project requirements and gather detailed specifications from stakeholders.
-They analyze the language translation, voice synthesis, image processing, and other functional requirements of the chatbot.
-They also consider non-functional requirements such as performance, scalability, and security.
+We worked together to understand the project requirements and gather detailed specifications from stakeholders.
+We analyze the language translation, voice synthesis, image processing, and other functional requirements of the chatbot.
+We also consider non-functional requirements such as performance, scalability, and security.
 
 #### **Design and Architecture:**
 
-Tarrun and Parth collaborate to design the architecture of the chatbot system, including the data flow, APIs, databases, and integration points.
-They decide on the technologies, APIs, and libraries to be used for different components of the chatbot system.
-They create a design document, including the system architecture, data models, and flowcharts.
+We collaborate to design the architecture of the chatbot system, including the data flow, APIs, databases, and integration points.
+We decide on the technologies, APIs, and libraries to be used for different components of the chatbot system.
+We create a design document, including the system architecture, data models, and flowcharts.
 
 #### **Development:**
 
-Tarrun takes responsibility for the NLP and language translation components, implementing the necessary NLP techniques, machine translation models, and APIs.
+Tarrun will take responsibility for the NLP and language translation components, implementing the necessary NLP techniques, machine translation models, and APIs.
 Parth takes responsibility for the speech recognition and text-to-speech components, implementing the ASR and TTS technologies, and integrating them with the chatbot system.
-Tarrun and Parth collaborate to develop the image processing component, implementing OCR techniques to extract text from images, and integrating it with the chatbot system.
+We collaborate to develop the image processing component, implementing OCR techniques to extract text from images, and integrating it with the chatbot system.
 They follow an agile development methodology, with regular sprints, code reviews, and testing to ensure quality and progress.
 
 #### **Testing and Quality Assurance:**
 
-Tarrun and Parth collaborate to conduct extensive testing of the chatbot system, including unit testing, integration testing, and functional testing.
-They also perform performance testing, security testing, and user acceptance testing to ensure that the system meets the required quality standards.
-They identify and fix any bugs or issues discovered during testing and ensure that the chatbot system is reliable and robust.
+We collaborate to conduct extensive testing of the chatbot system, including unit testing, integration testing, and functional testing.
+We also perform performance testing, security testing, and user acceptance testing to ensure that the system meets the required quality standards.
+We identify and fix any bugs or issues discovered during testing and ensure that the chatbot system is reliable and robust.
 
 #### **Deployment and Integration:**
 
-Tarrun and Parth work together to deploy the chatbot system on the chosen infrastructure, such as a cloud platform or on-premises servers.
-They integrate the chatbot system with other required components, such as databases, APIs, and external systems, to ensure smooth functioning and data flow.
-They thoroughly test the integrated system and ensure that it is ready for production use.
+We work together to deploy the chatbot system on the chosen infrastructure, such as a cloud platform or on-premises servers.
+we integrate the chatbot system with other required components, such as databases, APIs, and external systems, to ensure smooth functioning and data flow.
+we thoroughly test the integrated system and ensure that it is ready for production use.
 
 #### **Launch and Monitoring:**
-Tarrun and Parth collaborate to launch the chatbot system, making it available to users for input through text, voice, or image inputs.
-They monitor the system for any issues or performance bottlenecks and take proactive measures to resolve them.
-They gather feedback from users and stakeholders, and continuously improve the system based on feedback and usage patterns.
+We collaborate to launch the chatbot system, making it available to users for input through text, voice, or image inputs.
+We monitor the system for any issues or performance bottlenecks and take proactive measures to resolve them.
+We gather feedback from users and stakeholders, and continuously improve the system based on feedback and usage patterns.
 
 #### **Documentation and Knowledge Sharing:**
 
-Tarrun and Parth document the entire development process, including the architecture, design decisions, implementation details, and testing results.
-They create user manuals, technical documentation, and knowledge base resources to help users understand and use the chatbot system effectively.
-They also conduct knowledge sharing sessions with team members or stakeholders to transfer knowledge and expertise about the chatbot system.
+We document the entire development process, including the architecture, design decisions, implementation details, and testing results.
+We create user manuals, technical documentation, and knowledge base resources to help users understand and use the chatbot system effectively.
+We also conduct knowledge sharing sessions with team members or stakeholders to transfer knowledge and expertise about the chatbot system.
 
 #### **Progress Reporting and Communication:**
 
-Tarrun and Parth regularly update progress on their respective responsibilities and share it with each other and other stakeholders.
-They hold regular meetings to discuss progress, challenges, and next steps in the development process.
-They use project management tools, communication channels, and other means to ensure effective communication and coordination throughout the development process.
+We regularly update progress on their respective responsibilities and share it with each other and other stakeholders.
+We hold regular meetings to discuss progress, challenges, and next steps in the development process.
+We use project management tools, communication channels, and other means to ensure effective communication and coordination throughout the development process.
 
 ### **Phase Based Work Break Structure:**
 
@@ -345,13 +345,13 @@ Parth: We'll need to hire NLP experts, machine learning engineers, UI/UX designe
 
 Tarrun: It seems like a challenging project, but I think it has great potential. Let's start working on the project plan and put together a team.
 
-To begin with, Parth and Tarrun conducted extensive market research to understand the current landscape of cross-lingual communication and the potential demand for their chatbot system. They found that businesses with a global presence, particularly in industries such as finance, healthcare, and tourism, would benefit greatly from such a system. Additionally, there was a growing need for cross-lingual communication in personal contexts, such as online dating and language exchange.
+To begin with, we conducted extensive market research to understand the current landscape of cross-lingual communication and the potential demand for their chatbot system. We found that businesses with a global presence, particularly in industries such as finance, healthcare, and tourism, would benefit greatly from such a system. Additionally, there was a growing need for cross-lingual communication in personal contexts, such as online dating and language exchange.
 
-Based on their research, Parth and Tarrun developed a detailed business plan, outlining the product's features, target markets, and revenue streams. They also identified potential competitors and ways to differentiate their chatbot system. They decided to focus on the system's accuracy, speed, and ability to handle multiple languages simultaneously.
+Based on their research, we  developed a detailed business plan, outlining the product's features, target markets, and revenue streams. We also identified potential competitors and ways to differentiate their chatbot system. They decided to focus on the system's accuracy, speed, and ability to handle multiple languages simultaneously.
 
-The technical requirements of the chatbot system were also challenging. Parth and Tarrun realized that they would need to invest heavily in NLP algorithms and machine learning models to achieve the level of accuracy they desired. They also knew that designing an intuitive user interface that could handle multiple languages would be crucial to the system's success.
+The technical requirements of the chatbot system were also challenging. We realized that they would need to invest heavily in NLP algorithms and machine learning models to achieve the level of accuracy they desired. We also knew that designing an intuitive user interface that could handle multiple languages would be crucial to the system's success.
 
-Assembling a team with the necessary expertise was a significant challenge. Parth and Tarrun knew that they would need to hire top talent in NLP, machine learning, and UI/UX.
+Assembling a team with the necessary expertise was a significant challenge. We knew that we would need to hire top talent in NLP, machine learning, and UI/UX.
 
 ![image](https://user-images.githubusercontent.com/124272210/230560398-77d6bb0e-fdc6-4df6-b53e-6211283f6841.png)
 
