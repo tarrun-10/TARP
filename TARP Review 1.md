@@ -28,7 +28,7 @@ We envision that our NLP induced chatbot system will have a significant impact o
 Ultimately, our chatbot system will break down language barriers and bring people together, creating a more connected and inclusive world.
 
 
-### **Problem Discription**
+### **Problem Description**
 
 
 1. **Cross-lingual communication** is a significant challenge that affects many individuals and organizations worldwide. Language barriers can cause confusion, misinterpretation, and ultimately hinder effective communication. Traditional solutions to language barriers, such as human translators or interpretation services, can be costly, time-consuming, and not always readily available.
