@@ -353,9 +353,11 @@ The technical requirements of the chatbot system were also challenging. We reali
 
 Assembling a team with the necessary expertise was a significant challenge. We knew that we would need to hire top talent in NLP, machine learning, and UI/UX.
 
-### Use of Obsidian
+### Obsidian
 
-Obsidian is a powerful note-taking application that can be used to facilitate ideation and conversation for implementing an NLP Induced Chatbot System for Cross Lingual Communication. Here are some ways Obsidian can be used in this context:
+
+
+We used obsidian to save and keep track of our progress. Obsidian is a powerful note-taking application that can be used to facilitate ideation and conversation for implementing an NLP Induced Chatbot System for Cross Lingual Communication. Here are some ways Obsidian can be used in this context:
 
 **Brainstorming Ideas:**
 Obsidian can be used to capture and organize ideas during brainstorming sessions. The application provides a flexible and customizable platform for creating and linking notes. Participants in the ideation and conversation process can use Obsidian to jot down their thoughts and ideas, and link them to related concepts. This can help to generate new insights and identify potential solutions for the NLP Induced Chatbot System.
