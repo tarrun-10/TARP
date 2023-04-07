@@ -309,7 +309,7 @@ Monitor system performance and troubleshoot production issues
 Provide support to end-users and address their issues or concerns
 Collaborate with Tarrun to gather feedback from stakeholders and continuously improve the chatbot's functionality and user experience
  
-![image](https://user-images.githubusercontent.com/124272210/222787146-6b6c0e74-5c12-48d1-acd1-d0d5dbf69a7f.png)
+![image](https://user-images.githubusercontent.com/124272210/230576932-194650f3-d727-4034-9249-694376fd3552.png)
 
 
 
