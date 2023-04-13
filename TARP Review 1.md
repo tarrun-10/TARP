@@ -1,6 +1,6 @@
 # **TARP REVIEW - 1**
 
-## Topic - NLP Induced Chatbot System for Cross Lingual Communication
+## Topic - Chatbot System for Cross Lingual Communication using NLP
 
 #### **Team Members:**
 
