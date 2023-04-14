@@ -423,7 +423,8 @@ In conclusion, implementing an NLP-induced chatbot system for cross-lingual comm
 
 # **TARP REVIEW - 3**
 
-
+### **Video Recording**
+https://drive.google.com/file/d/1NcUaZPfkpaBw0PNeFmjOPKFtdVR9gDAG/view?usp=share_link
 ### **Code**
 ```pip install pytesseract # For recognising and extracting the text from the image ```<br/>
 Looking in indexes: https://pypi.org/simple, https://us-python.pkg.dev/colab-wheels/public/simple/
@@ -783,6 +784,33 @@ sound_file = 'ttso.wav'
 display(Audio(sound_file, autoplay=True)) #output 
 
 ```
+
+### **RESULT AND FINDINGS 
+
+#### **Image text extraction: 
+
+The use of Tesseract for text extraction from images proved to be effective in extracting text accurately from images after applying image processing techniques such as error correction, dilation, and binary conversion. However, the accuracy of text extraction may vary depending on the quality of the input image, font size, and text orientation. Further experimentation and optimization may be needed to improve the accuracy of text extraction, especially for challenging image conditions.
+
+#### **Language detection: 
+
+The LangDetect library was used for language detection, which accurately detected the language of the extracted text. However, it may face challenges in accurately detecting the language of short or mixed-language texts. Further evaluation and customization of the language detection model may be necessary to improve its accuracy, especially for detecting Indian languages, which may have similarities in script and vocabulary.
+
+#### ** Text translation:
+
+The use of mBART for text translation proved to be effective in generating translations of the extracted text into other Indian languages. The pretrained mBART model, being a state-of-the-art NLP model, demonstrated good translation quality, but it may not be perfect and may have limitations in handling certain language nuances or rare words. Fine-tuning the mBART model on domain-specific data or using other domain-specific translation models may be explored to further improve translation accuracy.
+
+####  **Tokenization:
+
+The tokenization feature provided by the transformers library was used to convert the input text into a format that can be fed into the mBART model. It effectively divided the text into smaller units called tokens, which are the input units for NLP models. However, tokenization may also impact the translation accuracy as it may split words or phrases in a way that affects the meaning. Careful consideration of tokenization strategies and their impact on translation accuracy is essential.
+
+#### **Speech synthesis:
+
+The use of a speech synthesis library to convert the translated text into speech provided an audible output in the target language, which can be useful for users who prefer spoken output or have visual impairments. However, the quality and naturalness of the synthesized speech may vary depending on the speech synthesis library and the target language. Experimentation and evaluation of different speech synthesis techniques and libraries may be needed to achieve optimal results.
+
+#### **Ethical considerations: 
+
+During the development and deployment of the system, ethical considerations should be taken into account, such as data privacy, data security, and bias in NLP models. Proper handling and protection of user data, ensuring fairness and transparency in text translation, and addressing potential biases in the system are important considerations to ensure responsible and ethical use of the technology.
+
 
 
 
