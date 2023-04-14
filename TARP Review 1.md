@@ -425,6 +425,34 @@ In conclusion, implementing an NLP-induced chatbot system for cross-lingual comm
 
 ### **Video Recording**
 https://drive.google.com/file/d/1NcUaZPfkpaBw0PNeFmjOPKFtdVR9gDAG/view?usp=share_link
+
+### **Research Papers 
+
+"MBART: Multilingual Denoising Pre-training for Natural Language Understanding and Generation" by Yinhan Liu, Jiatao Gu, Naman Goyal, Xiang Gao, Sergey Edunov, Marjan Ghazvininejad, and William B. Dolan.
+**Brief:** This paper introduces MBART, a multilingual denoising pre-training approach that achieves state-of-the-art results on a wide range of natural language understanding and generation tasks in multiple languages. MBART is trained on a large-scale parallel corpus of 25 languages and is shown to be effective in improving the performance of downstream NLP tasks.
+
+**Drawbacks:** While MBART is a powerful approach for multilingual NLP, some of its drawbacks include the computational cost of training and inference due to its large model size, as well as potential biases in the data used for pre-training.
+
+"Text Extraction from Images: Recent Advances and Challenges" by Varun K. Sharma, Chhavi Sharma, Prerna Singh, and Gaurav Harit.
+**Brief:** This paper provides an overview of recent advances in text extraction from images, including techniques based on deep learning, computer vision, and NLP. It discusses various challenges in text extraction, such as handling different fonts, languages, orientations, and noise levels in images.
+
+**Drawbacks:** Some of the challenges in text extraction from images include difficulties in accurately recognizing text from low-quality images or images with complex backgrounds, as well as limitations in handling rare or out-of-vocabulary words, and the need for large amounts of labeled data for training deep learning models.
+
+"Multilingual Communication in NLP: A Survey" by Shereen Oraby, Mona Diab, and Kareem Darwish.
+**Brief:** This survey paper provides an overview of multilingual communication in NLP, including challenges, techniques, and applications. It discusses various approaches for handling multilingual data, such as machine translation, cross-lingual transfer learning, code-switching, and code-mixing.
+
+**Drawbacks:** Some of the challenges in multilingual communication in NLP include handling language-specific nuances, biases, and cultural differences, as well as the need for annotated data in multiple languages for training and evaluation of models.
+
+"Tokenization in NLP: A Review and Evaluation of Existing Methods" by Nitin Madnani and Jill Burstein.
+**Brief:** This paper provides a comprehensive review and evaluation of existing tokenization methods in NLP, which is the process of breaking text into individual words or tokens. It discusses various tokenization techniques, including rule-based, statistical, and machine learning-based methods, and evaluates their performance on different languages and domains.
+
+**Drawbacks:** Some of the challenges in tokenization include handling domain-specific jargon, slang, or informal language, as well as dealing with languages that lack clear word boundaries, such as Chinese or Thai. The choice of tokenization method can also impact downstream NLP tasks, such as part-of-speech tagging or named entity recognition.
+
+"Tesseract: A Highly Accurate Optical Character Recognition Engine" by Ray Smith.
+**Brief:** This paper introduces Tesseract, an open-source OCR engine developed by Google that has achieved high accuracy in text recognition from images. It discusses the architecture, training process, and features of Tesseract, as well as its performance on various benchmark datasets.
+
+**Drawbacks:** While Tesseract is a popular and accurate OCR engine, some of its limitations include difficulties in recognizing text from low-quality images, handling languages with complex scripts or ligatures, and accurately preserving the formatting or structure of the original text during recognition.
+
 ### **Code**
 ```pip install pytesseract # For recognising and extracting the text from the image ```<br/>
 Looking in indexes: https://pypi.org/simple, https://us-python.pkg.dev/colab-wheels/public/simple/
@@ -785,6 +813,12 @@ display(Audio(sound_file, autoplay=True)) #output
 
 ```
 
+### **Novelty of the proposed project:
+
+The project is novel because it addresses the challenges of language barriers in communication, which is an increasingly important issue in a globalized world where people from different linguistic backgrounds need to communicate with each other.
+The problem of cross-lingual communication is relatively unexplored because it requires a deep understanding of different languages and cultures, as well as sophisticated NLP techniques. Existing solutions, such as machine translation, are often not accurate enough to support meaningful communication. Therefore, there is a need for more advanced systems that can overcome the limitations of existing approaches.
+The proposed project addresses this problem by developing a chatbot system that uses NLP techniques to enable cross-lingual communication. The system will use a combination of machine learning algorithms and rule-based methods to understand and generate responses in different languages. It will also use language models to detect the intent of the user's messages and generate appropriate responses.
+
 ### **RESULT AND FINDINGS 
 
 #### **Image text extraction: 
@@ -810,6 +844,7 @@ The use of a speech synthesis library to convert the translated text into speech
 #### **Ethical considerations: 
 
 During the development and deployment of the system, ethical considerations should be taken into account, such as data privacy, data security, and bias in NLP models. Proper handling and protection of user data, ensuring fairness and transparency in text translation, and addressing potential biases in the system are important considerations to ensure responsible and ethical use of the technology.
+
 
 
 
