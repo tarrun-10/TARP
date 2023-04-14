@@ -421,8 +421,7 @@ Once the chatbot system is deployed, it is essential to continue monitoring its 
 
 In conclusion, implementing an NLP-induced chatbot system for cross-lingual communication requires a strong foundation in NLP tools, machine learning algorithms, cloud computing, APIs, and programming languages. The methodology involves data collection, preprocessing, NLP model training, chatbot development, user interface design, deployment, and monitoring and maintenance. A successful implementation requires a multidisciplinary team with expertise in NLP, machine learning, UI/UX, and software development.
 
-
-
+# **TARP REVIEW - 3**
 
 # **Thank you!**
 
