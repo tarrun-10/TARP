@@ -426,6 +426,8 @@ In conclusion, implementing an NLP-induced chatbot system for cross-lingual comm
 ### **Video Recording**
 https://drive.google.com/file/d/1NcUaZPfkpaBw0PNeFmjOPKFtdVR9gDAG/view?usp=share_link
 
+**Note : Code explanation starts at 8:00.
+
 ### **Research Papers**
 
 "MBART: Multilingual Denoising Pre-training for Natural Language Understanding and Generation" by Yinhan Liu, Jiatao Gu, Naman Goyal, Xiang Gao, Sergey Edunov, Marjan Ghazvininejad, and William B. Dolan.
